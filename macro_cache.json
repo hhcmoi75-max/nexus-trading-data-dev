@@ -1,0 +1,18 @@
+{
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de consolidation difficile avec des signaux d'épuisement des vendeurs sur Bitcoin mais un sentiment général dégradé. Les négociations géopolitiques US-Iran apportent une incertitude supplémentaire tandis que l'effondrement du deal SPAC Ether Machine à 1,6 milliard témoigne de conditions de marché défavorables.",
+  "risque_principal": "Le squeeze potentiel des positions courtes avec 25 milliards d'open interest pourrait créer une volatilité extrême défavorable aux stratégies algorithmiques actuelles.",
+  "opportunite_du_jour": "La baisse des pertes réalisées sur Bitcoin suggère un possible plancher technique à surveiller pour un retournement.",
+  "actifs_favorables": [
+    "XAU",
+    "XAG",
+    "TRX"
+  ],
+  "actifs_risques": [
+    "BTC",
+    "ETH"
+  ],
+  "last_claude_run": "2026-04-11T18:46:10.273264+00:00"
+}

@@ -1,0 +1,243 @@
+{
+  "lecons_cles": [
+    "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité",
+    "Les gains maximums (+13.9%) dépassent largement les pertes maximales (-7.8%), suggérant une asymétrie positive des trades gagnants",
+    "Certains actifs montrent une performance parfaite (100% win rate) sur un échantillon réduit, révélant des opportunités de spécialisation",
+    "Le win rate de 29.7% est insuffisant pour compenser les pertes moyennes de -1.08%",
+    "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fréquents",
+    "La diversification excessive nuit aux performances avec des actifs systématiquement perdants",
+    "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée",
+    "Les gains moyens sur les trades gagnants (+6.2%) dépassent largement les pertes moyennes (-7.4%), révélant un déséquilibre dans la gestion des risques",
+    "La concentration des gains sur peu d'actifs (BTC, TRX, ALGO) suggère une approche trop dispersée",
+    "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée"
+  ],
+  "actifs_a_privilegier": [
+    "ALGO",
+    "BTC",
+    "TRX",
+    "DOT"
+  ],
+  "actifs_a_eviter": [
+    "ETH",
+    "SOL",
+    "FIL",
+    "APT"
+  ],
+  "conditions_favorables": "Le bot performe mieux sur les altcoins de moyenne capitalisation (ALGO, TRX, DOT) et évite les grandes caps traditionnelles qui semblent moins prévisibles",
+  "erreurs_recurrentes": "Trop de trades sont exécutés sans filtrage suffisant, diluant la performance avec des setups de faible qualité sur des actifs peu adaptés à la stratégie",
+  "recommandation_seuil_buy": 75,
+  "recommandation_stop_loss": 0.06,
+  "strategie_recommandee": "Concentrer les trades sur les 4-5 actifs les plus performants identifiés et augmenter drastiquement la sélectivité. Réduire la fréquence de trading de 30-40% pour ne garder que les setups de plus haute conviction.",
+  "last_distillation": "2026-04-11T20:26:07.846927+00:00",
+  "trades_analyzed": 41,
+  "win_rate_at_distill": 41.4,
+  "traders": {
+    "Warren Buffett": {
+      "style": "Value Investing - Long terme",
+      "principes": [
+        "Acheter des entreprises exceptionnelles a des prix raisonnables, pas des entreprises ordinaires a des prix exceptionnels",
+        "Le marche est la pour te servir, pas pour te guider. Sois avide quand les autres ont peur, peureux quand les autres sont avides",
+        "Notre periode de detention preferee est pour toujours. Ne vends pas si les fondamentaux restent solides",
+        "Ne jamais perdre de l argent est la regle numero 1. La regle numero 2 est de ne jamais oublier la regle numero 1",
+        "Diversifier c est une protection contre l ignorance. Ca ne fait pas de sens si tu sais ce que tu fais",
+        "Le prix est ce que tu paies, la valeur est ce que tu obtiens. Attendre le bon prix est la cle",
+        "Investir dans des entreprises avec des avantages competitifs durables (moat) - marques, brevets, reseau"
+      ],
+      "signaux_achat": [
+        "RSI bas + fondamentaux solides + marche en panique (F&G < 25)",
+        "Entreprise leader dans son secteur avec pricing power",
+        "Management honnete avec skin in the game"
+      ],
+      "signaux_vente": [
+        "Valorisation excessive par rapport aux fondamentaux",
+        "Deterioration de l avantage competitif",
+        "Management qui detruit la valeur actionnariale"
+      ],
+      "regle_risque": "Ne jamais investir plus de 10% dans une seule position sans conviction extreme",
+      "citation": "In the short run the market is a voting machine, in the long run it is a weighing machine"
+    },
+    "George Soros": {
+      "style": "Macro Global - Reflexivite",
+      "principes": [
+        "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
+        "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
+        "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
+        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
+        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
+        "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
+      ],
+      "signaux_achat": [
+        "Divergence entre sentiment et fondamentaux macro",
+        "DXY en baisse forte + actifs risques (crypto, emergents) en hausse",
+        "Euphorie excessive = opportunite de vente a court terme"
+      ],
+      "signaux_vente": [
+        "Euphorie de marche avec F&G > 80",
+        "DXY en forte hausse",
+        "Renversement de la tendance macro principale"
+      ],
+      "regle_risque": "Toujours avoir une these macro claire. Sans these, pas de position",
+      "citation": "It s not whether you re right or wrong, but how much money you make when you re right and how much you lose when you re wrong"
+    },
+    "Paul Tudor Jones": {
+      "style": "Trading Tactique - Gestion du Risque",
+      "principes": [
+        "Le plus important c est la preservation du capital. Sans capital tu ne peux pas trader",
+        "Ne jamais faire la moyenne a la baisse sur une position perdante. C est la mort du trader",
+        "5 a 1 risk/reward minimum - risquer 1 pour gagner 5. Ne trader que les setups de qualite",
+        "Les stops sont sacres. Une fois places, ils ne bougent jamais contre la position",
+        "Le momentum est roi. Ne jamais aller contre une tendance forte sans signal clair de retournement",
+        "Les 3 mois precedant un top de marche sont les plus dangereux - l euphorie aveugle",
+        "Apres 2 pertes consecutives, reduire la taille des positions de moitie jusqu au retour de confiance"
+      ],
+      "signaux_achat": [
+        "Breakout avec volume fort au-dessus d une resistance majeure",
+        "RSI en zone survendu + chandelle de retournement",
+        "Momentum positif confirme par MACD et MA"
+      ],
+      "signaux_vente": [
+        "Violation du stop loss - execution immediate sans hesitation",
+        "Deux pertes consecutives - reduire l exposition",
+        "RSI > 70 + divergence baissiere MACD"
+      ],
+      "regle_risque": "Maximum 2% du capital par trade. Maximum 6% de perte journaliere totale",
+      "citation": "The most important rule of trading is to play great defense, not great offense"
+    },
+    "Ray Dalio": {
+      "style": "All Weather - Diversification Systematique",
+      "principes": [
+        "Toute economie suit des cycles courts (5-8 ans) et longs (50-75 ans). Connaitre la phase est crucial",
+        "La diversification est le seul free lunch en finance. 15 actifs decorreles = risque divise par 5",
+        "La croissance et l inflation sont les 2 forces qui determinent la performance de chaque classe d actif",
+        "Quand la croissance monte : actions et commodities performent. Quand elle baisse : obligations et or",
+        "Ne pas etre surpris par les crises. Les incorporer dans la strategie en permanence",
+        "La douleur + la reflexion = le progres. Chaque perte est une lecon si on l analyse correctement",
+        "Avoir des convictions mais rester ouvert a etre tort. Calibrate ton niveau de certitude"
+      ],
+      "signaux_achat": [
+        "Or (GLD) et obligations (TLT) quand recession menace",
+        "Actions et crypto quand F&G < 30 + signaux de reprise",
+        "Mix 30% actions / 40% obligations / 15% or / 15% commodities en periode incertaine"
+      ],
+      "signaux_vente": [
+        "Concentration excessive dans une seule classe d actif",
+        "Corrélation des positions trop elevee (tout baisse ensemble)",
+        "Surchauffe economique avec inflation elevee"
+      ],
+      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
+      "citation": "He who lives by the crystal ball will eat shattered glass"
+    },
+    "Jesse Livermore": {
+      "style": "Momentum & Timing - Swing Trading",
+      "principes": [
+        "Ne trader que dans la direction de la tendance principale. La tendance est ton amie jusqu au retournement",
+        "Acheter dans la force, vendre dans la faiblesse. Attendre la confirmation avant d entrer",
+        "Les pivots de prix sont sacres. Un breakout au-dessus d un pivot = signal d achat majeur",
+        "La patience est la vertu supreme du trader. Attendre le bon setup plutot que de forcer",
+        "Ne jamais ajouter a une position perdante. Ajouter uniquement quand la position est gagnante",
+        "Toujours laisser courir les gagnants et couper rapidement les perdants",
+        "Les erreurs coutent de l argent mais les hesitations coutent des opportunites"
+      ],
+      "signaux_achat": [
+        "Breakout au-dessus de la resistance avec volume fort (>1.5x moyenne)",
+        "Pull-back sur support + rebond confirme",
+        "Nouveau plus haut historique (ATH) = signal tres bullish"
+      ],
+      "signaux_vente": [
+        "Rupture du support cle avec volume fort",
+        "Double top confirme avec volume decroissant",
+        "Momentum qui s epuise apres une longue tendance"
+      ],
+      "regle_risque": "Sortir immediatement si le marche va contre toi. L ego est l ennemi numero 1",
+      "citation": "The market does not beat them. They beat themselves because they have brains and emotions"
+    },
+    "Peter Lynch": {
+      "style": "Growth Investing - GARP (Growth at Reasonable Price)",
+      "principes": [
+        "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
+        "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
+        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
+        "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
+        "Ne vendez jamais une action florissante pour en acheter une mediocre",
+        "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
+        "Il y a toujours quelque chose dont s inquieter. Ne pas trader sur la peur des news"
+      ],
+      "signaux_achat": [
+        "Entreprise leader dans une niche en forte croissance",
+        "Insiders qui achevent des actions de leur propre entreprise (SEC Form 4)",
+        "Croissance du chiffre d affaires > 20% avec marges en expansion"
+      ],
+      "signaux_vente": [
+        "La these d investissement originale est cassee",
+        "Valorisation devenue excessive (PEG > 2.5)",
+        "Management qui diversifie dans des domaines qu il ne maitrise pas"
+      ],
+      "regle_risque": "Diversifier sur 5-8 valeurs de conviction maximum. Plus = dilution de la performance",
+      "citation": "Know what you own, and know why you own it"
+    }
+  },
+  "regles_universelles": [
+    "REGLE 1 (Buffett) : Ne jamais perdre de l argent. Preservation du capital avant tout",
+    "REGLE 2 (Jones) : Stops sacres. Une position perdante ne devient jamais une conviction",
+    "REGLE 3 (Dalio) : Diversifier. Ne jamais mettre tous ses oeufs dans le meme panier",
+    "REGLE 4 (Livermore) : Suivre la tendance. Ne pas la combattre sans signal clair",
+    "REGLE 5 (Soros) : Taille de position proportionnelle a la conviction ET au contexte macro",
+    "REGLE 6 (Lynch) : Comprendre ce qu on achete. Pas de position sans these claire",
+    "REGLE 7 (universel) : La psychologie est l ennemi. La discipline est l arme",
+    "REGLE 8 (universel) : Les meilleures opportunites apparaissent dans la peur extremes (F&G < 20)",
+    "REGLE 9 (universel) : Vendre progressivement dans l euphorie (F&G > 75)",
+    "REGLE 10 (universel) : Apres 3 pertes consecutives, pause et analyse avant de reprendre"
+  ],
+  "lecons_par_marche": {
+    "bull_market": "Lynch : laisser courir. Buffett : ne pas surpayer. Jones : serrer progressivement les stops",
+    "bear_market": "Dalio : rotation vers or et obligations. Buffett : accumuler les qualites. Jones : cash is king",
+    "high_volatility": "Dalio : reduire taille positions. Jones : 50% de la taille normale max",
+    "low_volatility": "Livermore : se preparer au prochain grand mouvement. Soros : chercher la prochaine bulle",
+    "fear_extreme": "Buffett : c est le moment d acheter. Jones : attendre la confirmation du retournement",
+    "greed_extreme": "Soros : vendre progressivement. Lynch : prendre des profits sur les survalorisees"
+  },
+  "scoring_adjustments": {
+    "fear_greed_extreme_fear": {
+      "condition": "F&G < 20",
+      "action": "Buffett dit acheter. Jones dit attendre confirmation. Dalio dit diversifier",
+      "score_bonus": 15,
+      "conviction": "FORTE"
+    },
+    "fear_greed_extreme_greed": {
+      "condition": "F&G > 80",
+      "action": "Soros dit vendre. Livermore dit laisser courir mais serrer le stop",
+      "score_malus": 12,
+      "conviction": "DEFENSIVE"
+    },
+    "breakout_volume": {
+      "condition": "Volume > 2x moyenne + nouveau plus haut",
+      "action": "Livermore et Jones : signal d achat fort. Entree immediate",
+      "score_bonus": 12,
+      "conviction": "FORTE"
+    },
+    "rsi_oversold_trend": {
+      "condition": "RSI < 30 + tendance long terme haussiere",
+      "action": "Lynch et Buffett : opportunite d achat value",
+      "score_bonus": 10,
+      "conviction": "MODEREE"
+    },
+    "double_top_confirmed": {
+      "condition": "Double top + volume decroissant",
+      "action": "Livermore et Jones : sortie immediate ou vente a decouvert",
+      "score_malus": 15,
+      "conviction": "FORTE"
+    },
+    "smart_money_buying": {
+      "condition": "Insiders achètent + institutionnels accumulent",
+      "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
+      "score_bonus": 8,
+      "conviction": "MODEREE"
+    },
+    "dxy_falling_crypto": {
+      "condition": "DXY baisse > 0.5% + Bitcoin en hausse",
+      "action": "Soros et Dalio : flux macro favorables aux actifs risques",
+      "score_bonus": 8,
+      "conviction": "MODEREE"
+    }
+  }
+}
