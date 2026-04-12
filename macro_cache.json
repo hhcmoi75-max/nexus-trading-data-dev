@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 25,
+  "score_sentiment": 30,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de consolidation difficile avec des signaux d'épuisement des vendeurs sur Bitcoin mais un sentiment général dégradé. Les négociations géopolitiques US-Iran apportent une incertitude supplémentaire tandis que l'effondrement du deal SPAC Ether Machine à 1,6 milliard témoigne de conditions de marché défavorables.",
-  "risque_principal": "Le squeeze potentiel des positions courtes avec 25 milliards d'open interest pourrait créer une volatilité extrême défavorable aux stratégies algorithmiques actuelles.",
-  "opportunite_du_jour": "La baisse des pertes réalisées sur Bitcoin suggère un possible plancher technique à surveiller pour un retournement.",
+  "contexte": "Les tensions géopolitiques entre les États-Unis et l'Iran pèsent lourdement sur les marchés crypto avec un échec des négociations créant une aversion au risque généralisée. Malgré la détention massive de Bitcoin par SpaceX, les signaux techniques suggèrent un épuisement des vendeurs mais dans un contexte de faiblesse persistante.",
+  "risque_principal": "L'escalade des tensions géopolitiques pourrait déclencher une vague de liquidations massives sur les actifs risqués crypto.",
+  "opportunite_du_jour": "Les signaux d'épuisement des vendeurs sur Bitcoin pourraient offrir un point d'entrée tactique pour les traders contrarians à court terme.",
   "actifs_favorables": [
     "XAU",
     "XAG",
-    "TRX"
+    "BTC"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "XRP",
+    "SOL"
   ],
-  "last_claude_run": "2026-04-11T18:46:10.273264+00:00"
+  "last_claude_run": "2026-04-12T06:51:10.196263+00:00"
 }
