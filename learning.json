@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T18:38:06.354031",
+    "last_update": "2026-04-12T18:46:04.760810",
     "win_rate_recent": 60.0
   },
   "asset_patterns": {
@@ -2013,7 +2013,7 @@
       "entry_weekday": 6,
       "score_technique": 26,
       "adx": 17.28,
-      "simulated": false
+      "simulated": true
     },
     {
       "asset": "NEAR",
@@ -2033,7 +2033,7 @@
       "entry_weekday": 6,
       "score_technique": 26,
       "adx": 17.28,
-      "simulated": false
+      "simulated": true
     },
     {
       "asset": "NEAR",
@@ -2053,7 +2053,7 @@
       "entry_weekday": 6,
       "score_technique": 19,
       "adx": 18.17,
-      "simulated": false
+      "simulated": true
     },
     {
       "asset": "NEAR",
@@ -2073,11 +2073,11 @@
       "entry_weekday": 6,
       "score_technique": 24,
       "adx": 18.17,
-      "simulated": false
+      "simulated": true
     }
   ],
   "stats": {
-    "total_closed": 47,
+    "total_closed": 51,
     "wins": 16,
     "losses": 19,
     "win_rate": 45.7,
@@ -2086,6 +2086,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T18:38:56.868347",
+  "last_update": "2026-04-12T18:46:55.516636",
   "ml_accuracy": 70.7
 }
