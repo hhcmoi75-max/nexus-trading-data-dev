@@ -7,14 +7,14 @@
     "onchain": 0.205
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 74,
+    "MIN_SCORE_BUY": 73,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 35,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T21:11:00.136425",
-    "win_rate_recent": 66.7
+    "last_update": "2026-04-12T21:16:00.660102",
+    "win_rate_recent": 73.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -2154,6 +2154,26 @@
       "score_technique": 29,
       "adx": 19.57,
       "simulated": false
+    },
+    {
+      "asset": "XRP",
+      "action": "MTF_SELL_EXIT",
+      "entry_price_eur": 1.1301,
+      "exit_price_eur": 1.1456,
+      "pnl_pct": 1.37,
+      "pnl_eur": 0.05,
+      "amount_eur": 3.6,
+      "entry_time": "2026-04-05T18:07:21.492668",
+      "exit_time": "2026-04-12T21:16:07.826206+00:00",
+      "exit_type_code": 2,
+      "entry_score": 61,
+      "entry_rsi": 50,
+      "btc_status": "neutral",
+      "entry_hour_utc": 21,
+      "entry_weekday": 6,
+      "confluence_signal": "SELL",
+      "aligned_timeframes": 2,
+      "simulated": false
     }
   ],
   "stats": {
@@ -2166,6 +2186,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T21:11:51.580213",
-  "ml_accuracy": 77.3
+  "last_update": "2026-04-12T21:16:50.825408",
+  "ml_accuracy": 81.8
 }
