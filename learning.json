@@ -7,14 +7,14 @@
     "onchain": 0.205
   },
   "thresholds": {
-    "MIN_SCORE_BUY": 75,
+    "MIN_SCORE_BUY": 74,
     "MAX_SCORE_SELL": 40,
     "RSI_OVERSOLD": 35,
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T21:06:00.452194",
-    "win_rate_recent": 63.3
+    "last_update": "2026-04-12T21:11:00.136425",
+    "win_rate_recent": 66.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -2093,7 +2093,7 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": true
+      "simulated": false
     },
     {
       "asset": "XRP",
@@ -2113,19 +2113,59 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
+      "simulated": false
+    },
+    {
+      "asset": "XRP",
+      "action": "MTF_SELL_EXIT",
+      "entry_price_eur": 1.1301,
+      "exit_price_eur": 1.1462,
+      "pnl_pct": 1.42,
+      "pnl_eur": 0.07,
+      "amount_eur": 5.14,
+      "entry_time": "2026-04-05T18:07:21.492668",
+      "exit_time": "2026-04-12T21:11:07.097921+00:00",
+      "exit_type_code": 2,
+      "entry_score": 61,
+      "entry_rsi": 50,
+      "btc_status": "neutral",
+      "entry_hour_utc": 21,
+      "entry_weekday": 6,
+      "confluence_signal": "SELL",
+      "aligned_timeframes": 2,
       "simulated": true
+    },
+    {
+      "asset": "NEAR",
+      "action": "SETUP_INVALID_EXIT",
+      "entry_price_eur": 1.1413,
+      "exit_price_eur": 1.1648,
+      "pnl_pct": 2.06,
+      "pnl_eur": 0.08,
+      "amount_eur": 3.96,
+      "entry_time": "2026-04-12T08:01:29.367491+00:00",
+      "exit_time": "2026-04-12T21:11:26.314049+00:00",
+      "exit_type_code": 2,
+      "entry_score": 75,
+      "entry_rsi": 35.1,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "score_technique": 29,
+      "adx": 19.57,
+      "simulated": false
     }
   ],
   "stats": {
-    "total_closed": 39,
-    "wins": 20,
+    "total_closed": 41,
+    "wins": 22,
     "losses": 19,
-    "win_rate": 51.3,
+    "win_rate": 53.7,
     "avg_pnl": -0.07,
     "total_pnl": -2.31,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T21:06:59.184357",
-  "ml_accuracy": 78.9
+  "last_update": "2026-04-12T21:11:51.580213",
+  "ml_accuracy": 77.3
 }
