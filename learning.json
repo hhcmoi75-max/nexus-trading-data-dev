@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T21:01:01.852070",
-    "win_rate_recent": 60.0
+    "last_update": "2026-04-12T21:06:00.452194",
+    "win_rate_recent": 63.3
   },
   "asset_patterns": {
     "NEAR": {
@@ -2094,6 +2094,26 @@
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
       "simulated": true
+    },
+    {
+      "asset": "XRP",
+      "action": "MTF_SELL_EXIT",
+      "entry_price_eur": 1.1301,
+      "exit_price_eur": 1.1462,
+      "pnl_pct": 1.42,
+      "pnl_eur": 0.1,
+      "amount_eur": 7.35,
+      "entry_time": "2026-04-05T18:07:21.492668",
+      "exit_time": "2026-04-12T21:06:07.702206+00:00",
+      "exit_type_code": 2,
+      "entry_score": 61,
+      "entry_rsi": 50,
+      "btc_status": "neutral",
+      "entry_hour_utc": 21,
+      "entry_weekday": 6,
+      "confluence_signal": "SELL",
+      "aligned_timeframes": 2,
+      "simulated": true
     }
   ],
   "stats": {
@@ -2106,6 +2126,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T21:01:51.815701",
-  "ml_accuracy": 70.7
+  "last_update": "2026-04-12T21:06:59.184357",
+  "ml_accuracy": 78.9
 }
