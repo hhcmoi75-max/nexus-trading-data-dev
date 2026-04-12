@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T18:16:03.153028",
+    "last_update": "2026-04-12T18:21:01.348615",
     "win_rate_recent": 53.3
   },
   "asset_patterns": {
@@ -2034,6 +2034,26 @@
       "score_technique": 26,
       "adx": 17.28,
       "simulated": false
+    },
+    {
+      "asset": "NEAR",
+      "action": "SETUP_INVALID_EXIT",
+      "entry_price_eur": 1.1413,
+      "exit_price_eur": 1.1634,
+      "pnl_pct": 1.94,
+      "pnl_eur": 0.14,
+      "amount_eur": 7.03,
+      "entry_time": "2026-04-12T08:01:29.367491+00:00",
+      "exit_time": "2026-04-12T18:21:27.931688+00:00",
+      "exit_type_code": 2,
+      "entry_score": 75,
+      "entry_rsi": 35.1,
+      "btc_status": "ok",
+      "entry_hour_utc": 8,
+      "entry_weekday": 6,
+      "score_technique": 19,
+      "adx": 18.17,
+      "simulated": false
     }
   ],
   "stats": {
@@ -2046,6 +2066,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T18:16:53.450145",
+  "last_update": "2026-04-12T18:21:52.147693",
   "ml_accuracy": 67.8
 }
