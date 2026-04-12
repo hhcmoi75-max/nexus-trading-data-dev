@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-12T21:36:00.364278",
+    "last_update": "2026-04-12T21:37:25.565169",
     "win_rate_recent": 80.0
   },
   "asset_patterns": {
@@ -2013,7 +2013,8 @@
       "entry_weekday": 6,
       "score_technique": 26,
       "adx": 17.28,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "NEAR",
@@ -2033,7 +2034,8 @@
       "entry_weekday": 6,
       "score_technique": 26,
       "adx": 17.28,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "NEAR",
@@ -2053,7 +2055,8 @@
       "entry_weekday": 6,
       "score_technique": 19,
       "adx": 18.17,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "NEAR",
@@ -2073,7 +2076,8 @@
       "entry_weekday": 6,
       "score_technique": 24,
       "adx": 18.17,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2093,7 +2097,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2113,7 +2118,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2133,7 +2139,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "NEAR",
@@ -2153,7 +2160,8 @@
       "entry_weekday": 6,
       "score_technique": 29,
       "adx": 19.57,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2173,7 +2181,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2193,7 +2202,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2213,7 +2223,8 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     },
     {
       "asset": "XRP",
@@ -2233,19 +2244,20 @@
       "entry_weekday": 6,
       "confluence_signal": "SELL",
       "aligned_timeframes": 2,
-      "simulated": false
+      "simulated": false,
+      "partial": true
     }
   ],
   "stats": {
-    "total_closed": 45,
-    "wins": 26,
+    "total_closed": 47,
+    "wins": 28,
     "losses": 19,
-    "win_rate": 57.8,
+    "win_rate": 59.6,
     "avg_pnl": -0.07,
     "total_pnl": -2.31,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-12T21:36:58.409274",
+  "last_update": "2026-04-12T21:38:15.689285",
   "ml_accuracy": 76.1
 }
