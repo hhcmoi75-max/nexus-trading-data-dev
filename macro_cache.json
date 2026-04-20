@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 25,
+  "score_sentiment": 15,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de stress majeur avec des hacks DeFi, des effondrements de tokens et des tensions géopolitiques au détroit d'Hormuz impactant Bitcoin. Malgré l'étude Nomura montrant 65% d'institutionnels favorables au crypto, les risques structurels dominent le sentiment.",
-  "risque_principal": "La multiplication des hacks DeFi et l'effondrement de tokens créent une crise de confiance systémique dans l'écosystème crypto.",
-  "opportunite_du_jour": "L'or pourrait bénéficier de la fuite vers la qualité causée par les tensions géopolitiques au détroit d'Hormuz.",
+  "contexte": "Le marché DeFi traverse une crise majeure avec l'exploit de Kelp DAO à 292M$ causant un effondrement de 8 milliards de TVL sur Aave, amplifié par le hack de Vercel exposant les clés API des développeurs crypto. La paralysie totale des prix à 0% variation révèle une incertitude généralisée malgré l'amélioration du bot à 57.4% de win rate.",
+  "risque_principal": "Contagion systémique des exploits DeFi vers l'écosystème crypto traditionnel avec risques de liquidations en cascade.",
+  "opportunite_du_jour": "BTC montrant 100% de win rate récent pourrait offrir un refuge relatif face à la débâcle DeFi.",
   "actifs_favorables": [
+    "BTC",
     "XAU",
-    "XAG",
-    "TRX"
+    "XAG"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ETH",
+    "SOL"
   ],
-  "last_claude_run": "2026-04-19T15:56:10.092023+00:00"
+  "last_claude_run": "2026-04-20T04:01:10.762916+00:00"
 }
