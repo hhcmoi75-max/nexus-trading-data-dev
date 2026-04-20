@@ -1,15 +1,15 @@
 {
   "lecons_cles": [
+    "Le bot excelle sur les altcoins de layer 1 et tokens d'infrastructure avec 100% de win rate",
+    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent dépasser +13%",
+    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de réussite avec cette stratégie",
     "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité",
     "Les gains maximums (+13.9%) dépassent largement les pertes maximales (-7.8%), suggérant une asymétrie positive des trades gagnants",
     "Certains actifs montrent une performance parfaite (100% win rate) sur un échantillon réduit, révélant des opportunités de spécialisation",
     "Le win rate de 29.7% est insuffisant pour compenser les pertes moyennes de -1.08%",
     "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fréquents",
     "La diversification excessive nuit aux performances avec des actifs systématiquement perdants",
-    "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée",
-    "Les gains moyens sur les trades gagnants (+6.2%) dépassent largement les pertes moyennes (-7.4%), révélant un déséquilibre dans la gestion des risques",
-    "La concentration des gains sur peu d'actifs (BTC, TRX, ALGO) suggère une approche trop dispersée",
-    "Le win rate de 25% est très faible et indique un problème majeur dans les critères d'entrée"
+    "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée"
   ],
   "actifs_a_privilegier": [
     "ALGO",
@@ -19,18 +19,21 @@
   ],
   "actifs_a_eviter": [
     "ETH",
+    "BNB",
+    "XLM",
+    "BCH",
     "SOL",
     "FIL",
     "APT"
   ],
-  "conditions_favorables": "Le bot performe mieux sur les altcoins de moyenne capitalisation (ALGO, TRX, DOT) et évite les grandes caps traditionnelles qui semblent moins prévisibles",
-  "erreurs_recurrentes": "Trop de trades sont exécutés sans filtrage suffisant, diluant la performance avec des setups de faible qualité sur des actifs peu adaptés à la stratégie",
-  "recommandation_seuil_buy": 75,
-  "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Concentrer les trades sur les 4-5 actifs les plus performants identifiés et augmenter drastiquement la sélectivité. Réduire la fréquence de trading de 30-40% pour ne garder que les setups de plus haute conviction.",
-  "last_distillation": "2026-04-11T20:26:07.846927+00:00",
-  "trades_analyzed": 41,
-  "win_rate_at_distill": 41.4,
+  "conditions_favorables": "Marchés favorables aux altcoins de layer 1 et tokens d'infrastructure, éviter les périodes de domination ETH et les actifs traditionnels",
+  "erreurs_recurrentes": "Exposition excessive à XLM qui génère des pertes récurrentes et mauvaise sélection sur les majors crypto établies",
+  "recommandation_seuil_buy": 72,
+  "recommandation_stop_loss": 0.08,
+  "strategie_recommandee": "Concentrer les positions sur ALGO, BTC, TRX et DOT qui montrent une performance parfaite. Éliminer complètement ETH, BNB et XLM du portefeuille de trading pour optimiser le win rate.",
+  "last_distillation": "2026-04-20T00:00:12.083191+00:00",
+  "trades_analyzed": 72,
+  "win_rate_at_distill": 58.3,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",

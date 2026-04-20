@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto montrent une stabilisation avec Bitcoin potentiellement en phase de consolidation autour des 60k EUR selon CoinDesk. Les tensions géopolitiques s'intensifient avec le blocage naval du détroit d'Hormuz par Trump, faisant bondir les contrats pétroliers de 7%.",
-  "risque_principal": "L'escalade géopolitique au Moyen-Orient pourrait déclencher une fuite vers la qualité et une volatilité accrue sur les actifs risqués.",
-  "opportunite_du_jour": "L'annonce de Michael Saylor sur un prochain achat Bitcoin pourrait catalyser une reprise haussière après la purge des 'paper hands'.",
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de stress majeur avec des hacks DeFi, des effondrements de tokens et des tensions géopolitiques au détroit d'Hormuz impactant Bitcoin. Malgré l'étude Nomura montrant 65% d'institutionnels favorables au crypto, les risques structurels dominent le sentiment.",
+  "risque_principal": "La multiplication des hacks DeFi et l'effondrement de tokens créent une crise de confiance systémique dans l'écosystème crypto.",
+  "opportunite_du_jour": "L'or pourrait bénéficier de la fuite vers la qualité causée par les tensions géopolitiques au détroit d'Hormuz.",
   "actifs_favorables": [
     "XAU",
-    "BTC",
-    "XAG"
+    "XAG",
+    "TRX"
   ],
   "actifs_risques": [
-    "TRX",
-    "XRP"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-04-12T18:55:00.606205+00:00"
+  "last_claude_run": "2026-04-19T15:56:10.092023+00:00"
 }
