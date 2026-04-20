@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 15,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché DeFi traverse une crise majeure avec l'exploit de Kelp DAO à 292M$ causant un effondrement de 8 milliards de TVL sur Aave, amplifié par le hack de Vercel exposant les clés API des développeurs crypto. La paralysie totale des prix à 0% variation révèle une incertitude généralisée malgré l'amélioration du bot à 57.4% de win rate.",
-  "risque_principal": "Contagion systémique des exploits DeFi vers l'écosystème crypto traditionnel avec risques de liquidations en cascade.",
-  "opportunite_du_jour": "BTC montrant 100% de win rate récent pourrait offrir un refuge relatif face à la débâcle DeFi.",
+  "score_macro": 72,
+  "score_sentiment": 75,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché crypto montre des signes de stabilisation avec BTC qui affiche des gains quotidiens de près de 3% malgré les tensions géopolitiques US-Iran, suggérant une résilience remarquable. L'adoption institutionnelle continue avec des achats massifs d'ETH par Bitmine (101,627 ETH) et l'intérêt croissant pour le mining Bitcoin au Royaume-Uni.",
+  "risque_principal": "Les tensions géopolitiques US-Iran créent une incertitude macro qui pourrait rapidement inverser le sentiment malgré la résilience actuelle des cryptos.",
+  "opportunite_du_jour": "BTC présente une opportunité forte avec 100% de win rate du bot et une dynamique haussière confirmée par la résistance aux chocs géopolitiques.",
   "actifs_favorables": [
     "BTC",
-    "XAU",
-    "XAG"
+    "ETH",
+    "XAU"
   ],
   "actifs_risques": [
-    "ETH",
-    "SOL"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-20T04:01:10.762916+00:00"
+  "last_claude_run": "2026-04-20T16:06:12.750345+00:00"
 }
