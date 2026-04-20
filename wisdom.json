@@ -1,15 +1,15 @@
 {
   "lecons_cles": [
     "Le bot excelle sur les altcoins de layer 1 et tokens d'infrastructure avec 100% de win rate",
-    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent dépasser +13%",
-    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de réussite avec cette stratégie",
-    "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité",
-    "Les gains maximums (+13.9%) dépassent largement les pertes maximales (-7.8%), suggérant une asymétrie positive des trades gagnants",
-    "Certains actifs montrent une performance parfaite (100% win rate) sur un échantillon réduit, révélant des opportunités de spécialisation",
+    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent d\u00e9passer +13%",
+    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de r\u00e9ussite avec cette strat\u00e9gie",
+    "Le win rate de 41.4% est insuffisant avec un PnL moyen n\u00e9gatif, indiquant un probl\u00e8me de s\u00e9lectivit\u00e9",
+    "Les gains maximums (+13.9%) d\u00e9passent largement les pertes maximales (-7.8%), sugg\u00e9rant une asym\u00e9trie positive des trades gagnants",
+    "Certains actifs montrent une performance parfaite (100% win rate) sur un \u00e9chantillon r\u00e9duit, r\u00e9v\u00e9lant des opportunit\u00e9s de sp\u00e9cialisation",
     "Le win rate de 29.7% est insuffisant pour compenser les pertes moyennes de -1.08%",
-    "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fréquents",
-    "La diversification excessive nuit aux performances avec des actifs systématiquement perdants",
-    "Le win rate de 25% est insuffisant et indique un problème de sélection d'entrée"
+    "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fr\u00e9quents",
+    "La diversification excessive nuit aux performances avec des actifs syst\u00e9matiquement perdants",
+    "Le win rate de 25% est insuffisant et indique un probl\u00e8me de s\u00e9lection d'entr\u00e9e"
   ],
   "actifs_a_privilegier": [
     "ALGO",
@@ -26,12 +26,12 @@
     "FIL",
     "APT"
   ],
-  "conditions_favorables": "Marchés favorables aux altcoins de layer 1 et tokens d'infrastructure, éviter les périodes de domination ETH et les actifs traditionnels",
-  "erreurs_recurrentes": "Exposition excessive à XLM qui génère des pertes récurrentes et mauvaise sélection sur les majors crypto établies",
+  "conditions_favorables": "March\u00e9s favorables aux altcoins de layer 1 et tokens d'infrastructure, \u00e9viter les p\u00e9riodes de domination ETH et les actifs traditionnels",
+  "erreurs_recurrentes": "Exposition excessive \u00e0 XLM qui g\u00e9n\u00e8re des pertes r\u00e9currentes et mauvaise s\u00e9lection sur les majors crypto \u00e9tablies",
   "recommandation_seuil_buy": 72,
   "recommandation_stop_loss": 0.08,
-  "strategie_recommandee": "Concentrer les positions sur ALGO, BTC, TRX et DOT qui montrent une performance parfaite. Éliminer complètement ETH, BNB et XLM du portefeuille de trading pour optimiser le win rate.",
-  "last_distillation": "2026-04-20T00:00:12.083191+00:00",
+  "strategie_recommandee": "Concentrer les positions sur ALGO, BTC, TRX et DOT qui montrent une performance parfaite. \u00c9liminer compl\u00e8tement ETH, BNB et XLM du portefeuille de trading pour optimiser le win rate.",
+  "last_distillation": "2026-04-01T00:00:00+00:00",
   "trades_analyzed": 72,
   "win_rate_at_distill": 58.3,
   "traders": {
@@ -65,8 +65,8 @@
         "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
         "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
         "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
-        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
-        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
+        "Les march\u00e9s ne refl\u00e8tent pas la r\u00e9alit\u00e9 - ils cr\u00e9ent une r\u00e9alit\u00e9 alternative que les acteurs suivent",
+        "Cherche les d\u00e9s\u00e9quilibres macro : taux, devises, flux de capitaux entre pays",
         "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
       ],
       "signaux_achat": [
@@ -124,10 +124,10 @@
       ],
       "signaux_vente": [
         "Concentration excessive dans une seule classe d actif",
-        "Corrélation des positions trop elevee (tout baisse ensemble)",
+        "Corr\u00e9lation des positions trop elevee (tout baisse ensemble)",
         "Surchauffe economique avec inflation elevee"
       ],
-      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
+      "regle_risque": "Jamais plus de 10% dans une classe d actif. R\u00e9\u00e9quilibrer reguli\u00e8rement",
       "citation": "He who lives by the crystal ball will eat shattered glass"
     },
     "Jesse Livermore": {
@@ -159,7 +159,7 @@
       "principes": [
         "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
         "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
-        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
+        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survaloris\u00e9",
         "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
         "Ne vendez jamais une action florissante pour en acheter une mediocre",
         "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
@@ -231,7 +231,7 @@
       "conviction": "FORTE"
     },
     "smart_money_buying": {
-      "condition": "Insiders achètent + institutionnels accumulent",
+      "condition": "Insiders ach\u00e8tent + institutionnels accumulent",
       "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
       "score_bonus": 8,
       "conviction": "MODEREE"
