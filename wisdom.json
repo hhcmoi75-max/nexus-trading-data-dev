@@ -1,39 +1,42 @@
 {
   "lecons_cles": [
+    "Le win rate de 57.4% avec PnL moyen de +0.5% montre une amélioration significative, indiquant que l'optimisation des paramètres porte ses fruits",
+    "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif",
+    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) émergent comme nouvelles catégories gagnantes au-delà des infrastructures classiques",
+    "La concentration des plus grosses pertes sur XLM (-7.8%, -7.1%) révèle une vulnérabilité récurrente sur les tokens de paiement legacy",
+    "Les gains exceptionnels sur ALGO se confirment (+13.9%, +12.3%) avec maintenant 100% de win rate, validant cette spécialisation",
+    "L'écart entre meilleur gain (+13.9%) et pire perte (-7.8%) de 1.78x offre un ratio risque/rendement favorable pour une stratégie agressive",
     "Le bot excelle sur les altcoins de layer 1 et tokens d'infrastructure avec 100% de win rate",
-    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent d\u00e9passer +13%",
-    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de r\u00e9ussite avec cette strat\u00e9gie",
-    "Le win rate de 41.4% est insuffisant avec un PnL moyen n\u00e9gatif, indiquant un probl\u00e8me de s\u00e9lectivit\u00e9",
-    "Les gains maximums (+13.9%) d\u00e9passent largement les pertes maximales (-7.8%), sugg\u00e9rant une asym\u00e9trie positive des trades gagnants",
-    "Certains actifs montrent une performance parfaite (100% win rate) sur un \u00e9chantillon r\u00e9duit, r\u00e9v\u00e9lant des opportunit\u00e9s de sp\u00e9cialisation",
-    "Le win rate de 29.7% est insuffisant pour compenser les pertes moyennes de -1.08%",
-    "Les gains sur ALGO sont exceptionnels (+13.9%, +12.3%) mais peu fr\u00e9quents",
-    "La diversification excessive nuit aux performances avec des actifs syst\u00e9matiquement perdants",
-    "Le win rate de 25% est insuffisant et indique un probl\u00e8me de s\u00e9lection d'entr\u00e9e"
+    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent dépasser +13%",
+    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de réussite avec cette stratégie",
+    "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité"
   ],
   "actifs_a_privilegier": [
-    "ALGO",
     "BTC",
+    "ALGO",
+    "SEI",
+    "ATOM",
     "TRX",
     "DOT"
   ],
   "actifs_a_eviter": [
-    "ETH",
-    "BNB",
     "XLM",
+    "ETH",
+    "MSFT",
+    "NVDA",
+    "APT",
+    "BNB",
     "BCH",
-    "SOL",
-    "FIL",
-    "APT"
+    "SOL"
   ],
-  "conditions_favorables": "March\u00e9s favorables aux altcoins de layer 1 et tokens d'infrastructure, \u00e9viter les p\u00e9riodes de domination ETH et les actifs traditionnels",
-  "erreurs_recurrentes": "Exposition excessive \u00e0 XLM qui g\u00e9n\u00e8re des pertes r\u00e9currentes et mauvaise s\u00e9lection sur les majors crypto \u00e9tablies",
+  "conditions_favorables": "Marchés crypto en phase de consolidation avec rotation sectorielle vers les layer-1 établis et émergents, éviter les phases de domination ETH",
+  "erreurs_recurrentes": "Persistence à trader les actifs traditionnels et ETH malgré 0% de réussite, surexposition aux tokens de paiement legacy comme XLM",
   "recommandation_seuil_buy": 72,
   "recommandation_stop_loss": 0.08,
-  "strategie_recommandee": "Concentrer les positions sur ALGO, BTC, TRX et DOT qui montrent une performance parfaite. \u00c9liminer compl\u00e8tement ETH, BNB et XLM du portefeuille de trading pour optimiser le win rate.",
-  "last_distillation": "2026-04-01T00:00:00+00:00",
-  "trades_analyzed": 72,
-  "win_rate_at_distill": 58.3,
+  "strategie_recommandee": "Concentrer 80% des trades sur les 5 actifs à 100% de win rate en augmentant la taille de position. Implémenter un filtre strict excluant définitivement ETH, actifs traditionnels et tokens de paiement legacy.",
+  "last_distillation": "2026-04-20T01:27:14.371216+00:00",
+  "trades_analyzed": 73,
+  "win_rate_at_distill": 57.4,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
@@ -65,8 +68,8 @@
         "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
         "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
         "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
-        "Les march\u00e9s ne refl\u00e8tent pas la r\u00e9alit\u00e9 - ils cr\u00e9ent une r\u00e9alit\u00e9 alternative que les acteurs suivent",
-        "Cherche les d\u00e9s\u00e9quilibres macro : taux, devises, flux de capitaux entre pays",
+        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
+        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
         "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
       ],
       "signaux_achat": [
@@ -124,10 +127,10 @@
       ],
       "signaux_vente": [
         "Concentration excessive dans une seule classe d actif",
-        "Corr\u00e9lation des positions trop elevee (tout baisse ensemble)",
+        "Corrélation des positions trop elevee (tout baisse ensemble)",
         "Surchauffe economique avec inflation elevee"
       ],
-      "regle_risque": "Jamais plus de 10% dans une classe d actif. R\u00e9\u00e9quilibrer reguli\u00e8rement",
+      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
       "citation": "He who lives by the crystal ball will eat shattered glass"
     },
     "Jesse Livermore": {
@@ -159,7 +162,7 @@
       "principes": [
         "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
         "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
-        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survaloris\u00e9",
+        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
         "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
         "Ne vendez jamais une action florissante pour en acheter une mediocre",
         "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
@@ -231,7 +234,7 @@
       "conviction": "FORTE"
     },
     "smart_money_buying": {
-      "condition": "Insiders ach\u00e8tent + institutionnels accumulent",
+      "condition": "Insiders achètent + institutionnels accumulent",
       "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
       "score_bonus": 8,
       "conviction": "MODEREE"
