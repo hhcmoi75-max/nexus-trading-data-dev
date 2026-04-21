@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 20,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une crise majeure avec l'exploit Kelp DAO provoquant un exode de 14 milliards USD du DeFi et exposant Aave à 230 millions de pertes potentielles. Malgré un rebond technique de Bitcoin au-dessus de 76 000$, l'expansion des cyberattaques nord-coréennes et le chaos DeFi créent un environnement de forte aversion au risque.",
-  "risque_principal": "Contagion systémique du hack Kelp DAO vers l'ensemble de l'écosystème DeFi avec risques de liquidations en cascade.",
-  "opportunite_du_jour": "Potentielles déclarations de Trump cette semaine qui historiquement génèrent des mouvements significants sur Bitcoin selon l'analyse CoinDesk.",
+  "contexte": "Le marché crypto fait face à des défis structurels majeurs avec la saturation complète des marchés core d'Aave signalant un stress de liquidité systémique. Les problématiques réglementaires en Pologne et les menaces quantiques identifiées par Coinbase créent un environnement d'incertitude défavorable malgré l'innovation continue.",
+  "risque_principal": "La saturation à 100% des marchés Aave indique un risque de liquidité critique pouvant déclencher des liquidations en cascade.",
+  "opportunite_du_jour": "L'introduction de tokens pré-IPO par Bitget starting avec SpaceX sur Solana ouvre de nouveaux segments de marché institutionnel.",
   "actifs_favorables": [
-    "XAU",
-    "XAG",
-    "BTC"
+    "SOL",
+    "BNB",
+    "XAU"
   ],
   "actifs_risques": [
     "ETH",
-    "SOL"
+    "XRP"
   ],
-  "last_claude_run": "2026-04-21T04:11:20.274038+00:00"
+  "last_claude_run": "2026-04-21T16:16:13.254826+00:00"
 }
