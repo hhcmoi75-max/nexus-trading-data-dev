@@ -2,17 +2,17 @@
   "score_macro": 65,
   "score_sentiment": 72,
   "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto évoluent en consolidation avec des prix stables malgré un environnement réglementaire en mutation, notamment avec les poursuites de New York contre Coinbase et Gemini sur les marchés de prédiction. Le win rate du bot à 58.1% et l'amélioration des performances BTC suggèrent une stabilisation technique favorable.",
-  "risque_principal": "L'intensification des actions réglementaires contre les exchanges majeurs pourrait créer une volatilité soudaine et affecter la liquidité.",
-  "opportunite_du_jour": "Les tests de Ripple avec RLUSD dans le sandbox MAS et la reconnaissance institutionnelle croissante du Bitcoin offrent des perspectives de développement structurel.",
+  "contexte": "Le marché crypto présente une stabilité inhabituelle avec tous les actifs à 0% de variation, tandis que les développements réglementaires au Royaume-Uni créent un environnement mixte entre répression (raids FCA) et opportunités (exemptions fiscales). Le lancement d'ETF par GSR et l'amélioration significative des performances du bot (59.4% de win rate) suggèrent une maturation progressive du secteur.",
+  "risque_principal": "Les raids de la FCA britannique sur les plateformes P2P et les nouvelles attaques malware Lazarus sur les entreprises crypto créent un climat d'incertitude réglementaire et sécuritaire.",
+  "opportunite_du_jour": "L'exemption fiscale britannique sur le Bitcoin et le lancement du premier ETF de GSR offrent de nouveaux vecteurs d'adoption institutionnelle.",
   "actifs_favorables": [
     "BTC",
-    "XRP",
-    "ETH"
+    "ETH",
+    "XAU"
   ],
   "actifs_risques": [
-    "BNB",
+    "XRP",
     "TRX"
   ],
-  "last_claude_run": "2026-04-22T04:21:09.988834+00:00"
+  "last_claude_run": "2026-04-22T16:26:11.992899+00:00"
 }
