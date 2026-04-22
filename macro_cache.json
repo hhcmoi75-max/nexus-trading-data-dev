@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto fait face à des défis structurels majeurs avec la saturation complète des marchés core d'Aave signalant un stress de liquidité systémique. Les problématiques réglementaires en Pologne et les menaces quantiques identifiées par Coinbase créent un environnement d'incertitude défavorable malgré l'innovation continue.",
-  "risque_principal": "La saturation à 100% des marchés Aave indique un risque de liquidité critique pouvant déclencher des liquidations en cascade.",
-  "opportunite_du_jour": "L'introduction de tokens pré-IPO par Bitget starting avec SpaceX sur Solana ouvre de nouveaux segments de marché institutionnel.",
+  "score_macro": 65,
+  "score_sentiment": 72,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto évoluent en consolidation avec des prix stables malgré un environnement réglementaire en mutation, notamment avec les poursuites de New York contre Coinbase et Gemini sur les marchés de prédiction. Le win rate du bot à 58.1% et l'amélioration des performances BTC suggèrent une stabilisation technique favorable.",
+  "risque_principal": "L'intensification des actions réglementaires contre les exchanges majeurs pourrait créer une volatilité soudaine et affecter la liquidité.",
+  "opportunite_du_jour": "Les tests de Ripple avec RLUSD dans le sandbox MAS et la reconnaissance institutionnelle croissante du Bitcoin offrent des perspectives de développement structurel.",
   "actifs_favorables": [
-    "SOL",
-    "BNB",
-    "XAU"
+    "BTC",
+    "XRP",
+    "ETH"
   ],
   "actifs_risques": [
-    "ETH",
-    "XRP"
+    "BNB",
+    "TRX"
   ],
-  "last_claude_run": "2026-04-21T16:16:13.254826+00:00"
+  "last_claude_run": "2026-04-22T04:21:09.988834+00:00"
 }
