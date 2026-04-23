@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 72,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto présente une stabilité inhabituelle avec tous les actifs à 0% de variation, tandis que les développements réglementaires au Royaume-Uni créent un environnement mixte entre répression (raids FCA) et opportunités (exemptions fiscales). Le lancement d'ETF par GSR et l'amélioration significative des performances du bot (59.4% de win rate) suggèrent une maturation progressive du secteur.",
-  "risque_principal": "Les raids de la FCA britannique sur les plateformes P2P et les nouvelles attaques malware Lazarus sur les entreprises crypto créent un climat d'incertitude réglementaire et sécuritaire.",
-  "opportunite_du_jour": "L'exemption fiscale britannique sur le Bitcoin et le lancement du premier ETF de GSR offrent de nouveaux vecteurs d'adoption institutionnelle.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Les marchés crypto stagnent à 0% sur tous les actifs majeurs dans un contexte de controverses réglementaires et de scandales impliquant des figures importantes comme Justin Sun et des politiciens américains. Tesla confirme ses pertes de 173M$ sur ses avoirs Bitcoin tandis que les restrictions sur les marchés de prédiction s'intensifient aux États-Unis.",
+  "risque_principal": "L'accumulation de controverses réglementaires et de scandales pourrait déclencher une correction généralisée sur des marchés déjà fragiles.",
+  "opportunite_du_jour": "TRX maintient son profil technique favorable avec 100% de win rate malgré les polémiques autour de Justin Sun, offrant un potentiel de dissociation.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "XAU"
+    "TRX",
+    "SOL",
+    "BNB"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "BTC",
+    "XRP"
   ],
-  "last_claude_run": "2026-04-22T16:26:11.992899+00:00"
+  "last_claude_run": "2026-04-23T04:31:12.593408+00:00"
 }
