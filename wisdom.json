@@ -1,42 +1,44 @@
 {
   "lecons_cles": [
+    "TRX émerge comme nouvel actif parfait avec 100% de win rate, élargissant le spectre au-delà des seuls layer-1 vers les blockchains de contrats intelligents alternatives",
+    "ARB présente une volatilité extrême avec le meilleur gain (+10.0%) ET une grosse perte (-5.1%), révélant un profil risque/rendement bipolaire sur les solutions layer-2",
+    "POL remplace MATIC dans les échecs récurrents, suggérant que les rebrands/migrations de tokens créent une instabilité temporaire défavorable au bot",
+    "DOT rejoint la liste des pertes significatives malgré son statut de parachain leader, indiquant une faiblesse sur l'écosystème Polkadot",
+    "FIL génère des gains consistants (+8.0%) contrairement aux précédentes analyses, marquant une réhabilitation des tokens de stockage décentralisé",
+    "OP affiche 0% de win rate avec une perte notable (-5.2%), révélant une incompatibilité systémique avec les layer-2 Optimism-based",
+    "INJ confirme l'efficacité sur les DEX spécialisés avec +8.1%, étendant la domination au-delà d'ALGO vers l'écosystème DeFi-cosmos",
     "Le win rate de 57.4% avec PnL moyen de +0.5% montre une amélioration significative, indiquant que l'optimisation des paramètres porte ses fruits",
     "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif",
-    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) émergent comme nouvelles catégories gagnantes au-delà des infrastructures classiques",
-    "La concentration des plus grosses pertes sur XLM (-7.8%, -7.1%) révèle une vulnérabilité récurrente sur les tokens de paiement legacy",
-    "Les gains exceptionnels sur ALGO se confirment (+13.9%, +12.3%) avec maintenant 100% de win rate, validant cette spécialisation",
-    "L'écart entre meilleur gain (+13.9%) et pire perte (-7.8%) de 1.78x offre un ratio risque/rendement favorable pour une stratégie agressive",
-    "Le bot excelle sur les altcoins de layer 1 et tokens d'infrastructure avec 100% de win rate",
-    "Les pertes maximales restent contenues sous -8% tandis que les gains peuvent dépasser +13%",
-    "Les actifs traditionnels (MSFT, NVDA) et majors crypto (ETH, BNB) montrent 0% de réussite avec cette stratégie",
-    "Le win rate de 41.4% est insuffisant avec un PnL moyen négatif, indiquant un problème de sélectivité"
+    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) émergent comme nouvelles catégories gagnantes au-delà des infrastructures classiques"
   ],
   "actifs_a_privilegier": [
+    "TRX",
+    "FIL",
+    "INJ",
+    "TON",
     "BTC",
     "ALGO",
     "SEI",
-    "ATOM",
-    "TRX",
-    "DOT"
+    "ATOM"
   ],
   "actifs_a_eviter": [
+    "POL",
+    "DOT",
+    "OP",
+    "APT",
     "XLM",
     "ETH",
     "MSFT",
-    "NVDA",
-    "APT",
-    "BNB",
-    "BCH",
-    "SOL"
+    "NVDA"
   ],
-  "conditions_favorables": "Marchés crypto en phase de consolidation avec rotation sectorielle vers les layer-1 établis et émergents, éviter les phases de domination ETH",
-  "erreurs_recurrentes": "Persistence à trader les actifs traditionnels et ETH malgré 0% de réussite, surexposition aux tokens de paiement legacy comme XLM",
+  "conditions_favorables": "Marchés favorisant les blockchains alternatives matures (TRX, ALGO), l'écosystème Cosmos (ATOM, INJ), et les infrastructures décentralisées (FIL, TON) avec évitement des layer-2 récents",
+  "erreurs_recurrentes": "Persistance à trader les rebrands récents (POL) et layer-2 non-Arbitrum (OP), ainsi que surexposition aux tokens traditionnels et parachains Polkadot qui montrent une résistance systémique",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.08,
-  "strategie_recommandee": "Concentrer 80% des trades sur les 5 actifs à 100% de win rate en augmentant la taille de position. Implémenter un filtre strict excluant définitivement ETH, actifs traditionnels et tokens de paiement legacy.",
-  "last_distillation": "2026-04-20T01:27:14.371216+00:00",
-  "trades_analyzed": 73,
-  "win_rate_at_distill": 57.4,
+  "recommandation_stop_loss": 0.06,
+  "strategie_recommandee": "Concentrer 70% des trades sur les 5 actifs à 100% de win rate en augmentant la taille de position. Implémenter un filtre strict excluant automatiquement les rebrands récents et layer-2 non-Arbitrum.",
+  "last_distillation": "2026-04-23T01:30:18.433594+00:00",
+  "trades_analyzed": 81,
+  "win_rate_at_distill": 61.8,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
