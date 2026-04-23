@@ -2,17 +2,17 @@
   "score_macro": 45,
   "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "Les marchés crypto stagnent à 0% sur tous les actifs majeurs dans un contexte de controverses réglementaires et de scandales impliquant des figures importantes comme Justin Sun et des politiciens américains. Tesla confirme ses pertes de 173M$ sur ses avoirs Bitcoin tandis que les restrictions sur les marchés de prédiction s'intensifient aux États-Unis.",
-  "risque_principal": "L'accumulation de controverses réglementaires et de scandales pourrait déclencher une correction généralisée sur des marchés déjà fragiles.",
-  "opportunite_du_jour": "TRX maintient son profil technique favorable avec 100% de win rate malgré les polémiques autour de Justin Sun, offrant un potentiel de dissociation.",
+  "contexte": "Le marché crypto traverse une phase de repricing DeFi brutal en 48h avec des préoccupations institutionnelles croissantes sur la sécurité. L'échec de Bitcoin à revisiter les 80k$ et l'activité réglementaire renforcée (Tether, Espagne) signalent une consolidation défensive.",
+  "risque_principal": "Les failles de sécurité persistantes en DeFi freinent l'adoption institutionnelle selon JPMorgan, créant un risque de désinvestissement massif.",
+  "opportunite_du_jour": "TRX montre une résilience exceptionnelle avec 100% de win rate, offrant une alternative stable aux layer-1 traditionnels.",
   "actifs_favorables": [
     "TRX",
-    "SOL",
-    "BNB"
+    "XAU",
+    "XAG"
   ],
   "actifs_risques": [
-    "BTC",
-    "XRP"
+    "ETH",
+    "BTC"
   ],
-  "last_claude_run": "2026-04-23T04:31:12.593408+00:00"
+  "last_claude_run": "2026-04-23T16:36:09.857333+00:00"
 }
