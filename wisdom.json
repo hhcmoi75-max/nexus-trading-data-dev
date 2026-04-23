@@ -1,15 +1,15 @@
 {
   "lecons_cles": [
-    "TRX émerge comme nouvel actif parfait avec 100% de win rate, élargissant le spectre au-delà des seuls layer-1 vers les blockchains de contrats intelligents alternatives",
-    "ARB présente une volatilité extrême avec le meilleur gain (+10.0%) ET une grosse perte (-5.1%), révélant un profil risque/rendement bipolaire sur les solutions layer-2",
-    "POL remplace MATIC dans les échecs récurrents, suggérant que les rebrands/migrations de tokens créent une instabilité temporaire défavorable au bot",
-    "DOT rejoint la liste des pertes significatives malgré son statut de parachain leader, indiquant une faiblesse sur l'écosystème Polkadot",
-    "FIL génère des gains consistants (+8.0%) contrairement aux précédentes analyses, marquant une réhabilitation des tokens de stockage décentralisé",
-    "OP affiche 0% de win rate avec une perte notable (-5.2%), révélant une incompatibilité systémique avec les layer-2 Optimism-based",
-    "INJ confirme l'efficacité sur les DEX spécialisés avec +8.1%, étendant la domination au-delà d'ALGO vers l'écosystème DeFi-cosmos",
-    "Le win rate de 57.4% avec PnL moyen de +0.5% montre une amélioration significative, indiquant que l'optimisation des paramètres porte ses fruits",
-    "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif",
-    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) émergent comme nouvelles catégories gagnantes au-delà des infrastructures classiques"
+    "TRX \u00e9merge comme nouvel actif parfait avec 100% de win rate, \u00e9largissant le spectre au-del\u00e0 des seuls layer-1 vers les blockchains de contrats intelligents alternatives",
+    "ARB pr\u00e9sente une volatilit\u00e9 extr\u00eame avec le meilleur gain (+10.0%) ET une grosse perte (-5.1%), r\u00e9v\u00e9lant un profil risque/rendement bipolaire sur les solutions layer-2",
+    "POL remplace MATIC dans les \u00e9checs r\u00e9currents, sugg\u00e9rant que les rebrands/migrations de tokens cr\u00e9ent une instabilit\u00e9 temporaire d\u00e9favorable au bot",
+    "DOT rejoint la liste des pertes significatives malgr\u00e9 son statut de parachain leader, indiquant une faiblesse sur l'\u00e9cosyst\u00e8me Polkadot",
+    "FIL g\u00e9n\u00e8re des gains consistants (+8.0%) contrairement aux pr\u00e9c\u00e9dentes analyses, marquant une r\u00e9habilitation des tokens de stockage d\u00e9centralis\u00e9",
+    "OP affiche 0% de win rate avec une perte notable (-5.2%), r\u00e9v\u00e9lant une incompatibilit\u00e9 syst\u00e9mique avec les layer-2 Optimism-based",
+    "INJ confirme l'efficacit\u00e9 sur les DEX sp\u00e9cialis\u00e9s avec +8.1%, \u00e9tendant la domination au-del\u00e0 d'ALGO vers l'\u00e9cosyst\u00e8me DeFi-cosmos",
+    "Le win rate de 57.4% avec PnL moyen de +0.5% montre une am\u00e9lioration significative, indiquant que l'optimisation des param\u00e8tres porte ses fruits",
+    "BTC affiche d\u00e9sormais 100% de win rate contrairement aux analyses pr\u00e9c\u00e9dentes, sugg\u00e9rant une \u00e9volution favorable des conditions de march\u00e9 pour cet actif",
+    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) \u00e9mergent comme nouvelles cat\u00e9gories gagnantes au-del\u00e0 des infrastructures classiques"
   ],
   "actifs_a_privilegier": [
     "TRX",
@@ -31,12 +31,12 @@
     "MSFT",
     "NVDA"
   ],
-  "conditions_favorables": "Marchés favorisant les blockchains alternatives matures (TRX, ALGO), l'écosystème Cosmos (ATOM, INJ), et les infrastructures décentralisées (FIL, TON) avec évitement des layer-2 récents",
-  "erreurs_recurrentes": "Persistance à trader les rebrands récents (POL) et layer-2 non-Arbitrum (OP), ainsi que surexposition aux tokens traditionnels et parachains Polkadot qui montrent une résistance systémique",
+  "conditions_favorables": "March\u00e9s favorisant les blockchains alternatives matures (TRX, ALGO), l'\u00e9cosyst\u00e8me Cosmos (ATOM, INJ), et les infrastructures d\u00e9centralis\u00e9es (FIL, TON) avec \u00e9vitement des layer-2 r\u00e9cents",
+  "erreurs_recurrentes": "Persistance \u00e0 trader les rebrands r\u00e9cents (POL) et layer-2 non-Arbitrum (OP), ainsi que surexposition aux tokens traditionnels et parachains Polkadot qui montrent une r\u00e9sistance syst\u00e9mique",
   "recommandation_seuil_buy": 72,
   "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Concentrer 70% des trades sur les 5 actifs à 100% de win rate en augmentant la taille de position. Implémenter un filtre strict excluant automatiquement les rebrands récents et layer-2 non-Arbitrum.",
-  "last_distillation": "2026-04-23T01:30:18.433594+00:00",
+  "strategie_recommandee": "Concentrer 70% des trades sur les 5 actifs \u00e0 100% de win rate en augmentant la taille de position. Impl\u00e9menter un filtre strict excluant automatiquement les rebrands r\u00e9cents et layer-2 non-Arbitrum.",
+  "last_distillation": "2026-04-01T00:00:00+00:00",
   "trades_analyzed": 81,
   "win_rate_at_distill": 61.8,
   "traders": {
@@ -70,8 +70,8 @@
         "Les marches sont toujours dans un etat de flux. La reflexivite cree des bulles et des crashs previsibles",
         "Identifie la tendance dominante, puis identifie le moment ou elle va se retourner",
         "Quand tu as raison, maximise. Quand tu as tort, minimise les pertes. La taille de la position compte",
-        "Les marchés ne reflètent pas la réalité - ils créent une réalité alternative que les acteurs suivent",
-        "Cherche les déséquilibres macro : taux, devises, flux de capitaux entre pays",
+        "Les march\u00e9s ne refl\u00e8tent pas la r\u00e9alit\u00e9 - ils cr\u00e9ent une r\u00e9alit\u00e9 alternative que les acteurs suivent",
+        "Cherche les d\u00e9s\u00e9quilibres macro : taux, devises, flux de capitaux entre pays",
         "Une position perdante ne doit jamais devenir une conviction - le marche a toujours raison"
       ],
       "signaux_achat": [
@@ -129,10 +129,10 @@
       ],
       "signaux_vente": [
         "Concentration excessive dans une seule classe d actif",
-        "Corrélation des positions trop elevee (tout baisse ensemble)",
+        "Corr\u00e9lation des positions trop elevee (tout baisse ensemble)",
         "Surchauffe economique avec inflation elevee"
       ],
-      "regle_risque": "Jamais plus de 10% dans une classe d actif. Rééquilibrer regulièrement",
+      "regle_risque": "Jamais plus de 10% dans une classe d actif. R\u00e9\u00e9quilibrer reguli\u00e8rement",
       "citation": "He who lives by the crystal ball will eat shattered glass"
     },
     "Jesse Livermore": {
@@ -164,7 +164,7 @@
       "principes": [
         "Investis dans ce que tu connais. Les meilleures idees viennent de ton quotidien",
         "Un tenbagger (x10) commence par une bonne entreprise a un prix raisonnable",
-        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survalorisé",
+        "PEG ratio (P/E divise par croissance) < 1 = opportunite. > 2 = survaloris\u00e9",
         "Les institutionnels ignorent les petites capitalisations = opportunites pour les individus",
         "Ne vendez jamais une action florissante pour en acheter une mediocre",
         "Avant d acheter, tu dois pouvoir expliquer pourquoi en 2 minutes a un enfant de 10 ans",
@@ -236,7 +236,7 @@
       "conviction": "FORTE"
     },
     "smart_money_buying": {
-      "condition": "Insiders achètent + institutionnels accumulent",
+      "condition": "Insiders ach\u00e8tent + institutionnels accumulent",
       "action": "Lynch : signal fort. Suivre les insiders est statistiquement gagnant",
       "score_bonus": 8,
       "conviction": "MODEREE"
