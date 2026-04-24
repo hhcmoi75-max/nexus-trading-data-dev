@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de repricing DeFi brutal en 48h avec des préoccupations institutionnelles croissantes sur la sécurité. L'échec de Bitcoin à revisiter les 80k$ et l'activité réglementaire renforcée (Tether, Espagne) signalent une consolidation défensive.",
-  "risque_principal": "Les failles de sécurité persistantes en DeFi freinent l'adoption institutionnelle selon JPMorgan, créant un risque de désinvestissement massif.",
-  "opportunite_du_jour": "TRX montre une résilience exceptionnelle avec 100% de win rate, offrant une alternative stable aux layer-1 traditionnels.",
+  "contexte": "Le marché DeFi traverse une crise majeure avec des hacks massifs (KelpDAO $292M) et des problèmes de décentralisation (freeze Arbitrum $71M) qui remettent en question les fondamentaux du secteur. Les scandales réglementaires (soldat américain, paris Polymarket) amplifient l'aversion au risque institutionnel.",
+  "risque_principal": "Contagion DeFi généralisée suite aux multiples exploits et questionnements sur la sécurité des protocoles décentralisés.",
+  "opportunite_du_jour": "Les tokens à adoption sociale massive résistent mieux aux crises systémiques comme démontré par TON.",
   "actifs_favorables": [
     "TRX",
-    "XAU",
-    "XAG"
+    "BTC",
+    "XAU"
   ],
   "actifs_risques": [
     "ETH",
-    "BTC"
+    "BNB"
   ],
-  "last_claude_run": "2026-04-23T16:36:09.857333+00:00"
+  "last_claude_run": "2026-04-24T04:41:10.433807+00:00"
 }
