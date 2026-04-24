@@ -1,10 +1,10 @@
 {
   "version": 2,
   "weights": {
-    "technique": 0.525,
-    "macro": 0.177,
-    "sentiment": 0.109,
-    "onchain": 0.188
+    "technique": 0.515,
+    "macro": 0.174,
+    "sentiment": 0.127,
+    "onchain": 0.184
   },
   "thresholds": {
     "MIN_SCORE_BUY": 65,
@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-24T08:01:04.642083",
+    "last_update": "2026-04-24T08:06:03.939494",
     "win_rate_recent": 73.3
   },
   "asset_patterns": {
@@ -262,13 +262,13 @@
       ]
     },
     "ARB": {
-      "trades": 6,
-      "wins": 4,
+      "trades": 7,
+      "wins": 5,
       "losses": 2,
-      "win_rate": 66.7,
-      "avg_pnl": 0.14,
+      "win_rate": 71.4,
+      "avg_pnl": 0.23,
       "best_rsi_range": [
-        44.7,
+        44.0,
         68.0
       ],
       "avoid_conditions": [
@@ -313,6 +313,12 @@
           "rsi": 57.57,
           "change_24h": 0.0,
           "pnl": 0.84,
+          "result": "win"
+        },
+        {
+          "rsi": 43.95,
+          "change_24h": 0.0,
+          "pnl": 1.64,
           "result": "win"
         }
       ]
@@ -4917,18 +4923,101 @@
         "btc_status": "neutral",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "ARB",
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.58,
+          "pnl_eur": 0.2,
+          "amount_eur": 12.5,
+          "exit_time": "2026-04-23T22:36:33.775650+00:00",
+          "score_tech": 24,
+          "adx": 10.6
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 2.69,
+          "pnl_eur": 0.25,
+          "amount_eur": 9.38,
+          "exit_time": "2026-04-24T02:06:34.121337+00:00",
+          "score_tech": 34,
+          "adx": 12.3
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.95,
+          "pnl_eur": 0.14,
+          "amount_eur": 7.03,
+          "exit_time": "2026-04-24T04:46:34.288237+00:00",
+          "score_tech": 30,
+          "adx": 12.0
+        }
+      ],
+      "paliers_done": [],
+      "action": "TRAILING_STOP",
+      "exit_reason": "TRAILING_STOP",
+      "entry_price_eur": 0.1079,
+      "exit_price_eur": 0.1091,
+      "pnl_pct": 1.64,
+      "pnl_eur": 0.82,
+      "amount_eur": 50.0,
+      "features": [],
+      "ml_score": 0,
+      "entry_time": "2026-04-23T01:41:34.032669+00:00",
+      "exit_time": "2026-04-24T08:06:38.303873",
+      "entry_rsi": 43.95,
+      "entry_score": 69,
+      "entry_change_24h": 0.0,
+      "exit_type_code": 2,
+      "candle_score": -20,
+      "stoch_k": 0.0,
+      "fib_score": 0,
+      "dist_support_pct": 3.0,
+      "dist_resistance_pct": 2.29,
+      "entry_hour_utc": 1,
+      "entry_weekday": 3,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 27.53,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 46,
+      "entry_snapshot": {
+        "score_technique": 66,
+        "score_macro": 65,
+        "score_sentiment": 72,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "onchain_score": null,
+        "score": 69,
+        "rsi": 43.95,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "adx": 27.53,
+        "psar_bull": true,
+        "above_ema200": true,
+        "fear_greed": 46,
+        "entry_hour_utc": 1,
+        "entry_weekday": 3,
+        "btc_change_at_entry": 0,
+        "btc_status": "ok",
+        "claude_confidence": 50
+      }
     }
   ],
   "stats": {
-    "total_closed": 70,
-    "wins": 43,
+    "total_closed": 71,
+    "wins": 44,
     "losses": 27,
-    "win_rate": 61.4,
-    "avg_pnl": 0.59,
-    "total_pnl": 41.55,
+    "win_rate": 62.0,
+    "avg_pnl": 0.61,
+    "total_pnl": 43.19,
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-24T08:01:55.208650",
-  "ml_accuracy": 80.8
+  "last_update": "2026-04-24T08:06:59.700880",
+  "ml_accuracy": 78.4
 }
