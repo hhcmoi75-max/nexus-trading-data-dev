@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché DeFi traverse une crise majeure avec des hacks massifs (KelpDAO $292M) et des problèmes de décentralisation (freeze Arbitrum $71M) qui remettent en question les fondamentaux du secteur. Les scandales réglementaires (soldat américain, paris Polymarket) amplifient l'aversion au risque institutionnel.",
-  "risque_principal": "Contagion DeFi généralisée suite aux multiples exploits et questionnements sur la sécurité des protocoles décentralisés.",
-  "opportunite_du_jour": "Les tokens à adoption sociale massive résistent mieux aux crises systémiques comme démontré par TON.",
+  "score_macro": 75,
+  "score_sentiment": 70,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'environnement macro s'améliore avec l'abandon de l'enquête DOJ qui libère la voie pour le choix de Trump à la Fed, signalant une politique monétaire potentiellement plus accommodante. Le signal haussier confirmé sur Solana et l'achat massif d'ETH par Bitmine (10 000 ETH pour 23,9M€) renforcent la confiance institutionnelle.",
+  "risque_principal": "L'attaque quantique réussie sur Bitcoin révèle une vulnérabilité technologique émergente qui pourrait affecter la confiance long terme.",
+  "opportunite_du_jour": "SOL présente un signal haussier technique confirmé historiquement suivi de gains de 100%.",
   "actifs_favorables": [
-    "TRX",
-    "BTC",
+    "SOL",
+    "ETH",
     "XAU"
   ],
   "actifs_risques": [
-    "ETH",
-    "BNB"
+    "BNB",
+    "XRP"
   ],
-  "last_claude_run": "2026-04-24T04:41:10.433807+00:00"
+  "last_claude_run": "2026-04-24T16:46:18.647437+00:00"
 }
