@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 70,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin affiche son meilleur mois depuis un an avec une croissance de 5 milliards USDT alimentant le rebond, malgré un gel de 344M$ USDT lié aux sanctions américaines contre l'Iran. L'environnement réglementaire américain reste tendu avec la CFTC qui intensifie ses actions contre les marchés de prédiction, mais l'abandon d'enquêtes DOJ par Trump apporte une stabilité politique.",
-  "risque_principal": "La position short de 38M$ sur Bitcoin d'une baleine Hyperliquid combinée aux tensions géopolitiques Iran-USA pourrait créer de la volatilité soudaine.",
-  "opportunite_du_jour": "La forte croissance USDT de 5 milliards et la performance mensuelle exceptionnelle de Bitcoin créent un momentum haussier favorable aux cryptos établies.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de consolidation neutre avec tous les actifs majeurs à 0% de variation, mais les nouvelles géopolitiques négatives (annulation du voyage Iran de Trump) et l'analyse technique suggérant un Bitcoin à 40K comme scenario statistiquement rare créent une tension baissière latente. L'adoption institutionnelle européenne en crypto et la conférence exclusive de Trump apportent des signaux contradictoires mais insuffisants pour inverser la pression.",
+  "risque_principal": "La dynamique baissière du Bitcoin combinée aux tensions géopolitiques pourrait déclencher une correction généralisée sur l'ensemble des altcoins.",
+  "opportunite_du_jour": "Les blockchains intégrées aux réseaux sociaux comme TON restent la seule catégorie performante selon l'historique récent du bot.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
+    "TON",
+    "TRX",
     "SOL"
   ],
   "actifs_risques": [
-    "BNB",
-    "XRP"
+    "BTC",
+    "BNB"
   ],
-  "last_claude_run": "2026-04-25T04:51:12.754137+00:00"
+  "last_claude_run": "2026-04-25T16:56:14.299925+00:00"
 }
