@@ -2,17 +2,17 @@
   "score_macro": 75,
   "score_sentiment": 70,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'environnement macro s'améliore avec l'abandon de l'enquête DOJ qui libère la voie pour le choix de Trump à la Fed, signalant une politique monétaire potentiellement plus accommodante. Le signal haussier confirmé sur Solana et l'achat massif d'ETH par Bitmine (10 000 ETH pour 23,9M€) renforcent la confiance institutionnelle.",
-  "risque_principal": "L'attaque quantique réussie sur Bitcoin révèle une vulnérabilité technologique émergente qui pourrait affecter la confiance long terme.",
-  "opportunite_du_jour": "SOL présente un signal haussier technique confirmé historiquement suivi de gains de 100%.",
+  "contexte": "Bitcoin affiche son meilleur mois depuis un an avec une croissance de 5 milliards USDT alimentant le rebond, malgré un gel de 344M$ USDT lié aux sanctions américaines contre l'Iran. L'environnement réglementaire américain reste tendu avec la CFTC qui intensifie ses actions contre les marchés de prédiction, mais l'abandon d'enquêtes DOJ par Trump apporte une stabilité politique.",
+  "risque_principal": "La position short de 38M$ sur Bitcoin d'une baleine Hyperliquid combinée aux tensions géopolitiques Iran-USA pourrait créer de la volatilité soudaine.",
+  "opportunite_du_jour": "La forte croissance USDT de 5 milliards et la performance mensuelle exceptionnelle de Bitcoin créent un momentum haussier favorable aux cryptos établies.",
   "actifs_favorables": [
-    "SOL",
+    "BTC",
     "ETH",
-    "XAU"
+    "SOL"
   ],
   "actifs_risques": [
     "BNB",
     "XRP"
   ],
-  "last_claude_run": "2026-04-24T16:46:18.647437+00:00"
+  "last_claude_run": "2026-04-25T04:51:12.754137+00:00"
 }
