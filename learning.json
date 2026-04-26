@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-26T10:01:00.864649",
+    "last_update": "2026-04-26T10:04:03.760348",
     "win_rate_recent": 60.0
   },
   "asset_patterns": {
@@ -5389,7 +5389,7 @@
       "paliers_done": [],
       "entry_time": "2026-04-22T23:41:23.705195+00:00",
       "exit_time": "2026-04-26T09:54:19.881814+00:00",
-      "simulated": true,
+      "simulated": false,
       "entry_rsi": 34.27,
       "entry_score": 74
     },
@@ -5485,7 +5485,7 @@
       "paliers_done": [],
       "entry_time": "2026-04-23T00:01:29.324696+00:00",
       "exit_time": "2026-04-26T09:54:19.881856+00:00",
-      "simulated": true,
+      "simulated": false,
       "entry_rsi": 49.27,
       "entry_score": 75
     },
@@ -5569,7 +5569,7 @@
       "paliers_done": [],
       "entry_time": "2026-04-23T00:26:41.134510+00:00",
       "exit_time": "2026-04-26T09:54:19.881880+00:00",
-      "simulated": true,
+      "simulated": false,
       "entry_rsi": 44.23,
       "entry_score": 68
     }
@@ -5584,6 +5584,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-26T10:01:55.426042",
+  "last_update": "2026-04-26T10:04:57.230679",
   "ml_accuracy": 81.6
 }
