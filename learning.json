@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-26T07:16:02.284448",
+    "last_update": "2026-04-26T07:39:37.568128",
     "win_rate_recent": 70.0
   },
   "asset_patterns": {
@@ -5194,6 +5194,53 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "INJ",
+      "action": "TP_PALIER_8",
+      "entry_price_eur": 3.028,
+      "exit_price_eur": 3.3534,
+      "pnl_pct": 10.75,
+      "pnl_eur": 1.29,
+      "amount_eur": 11.97,
+      "entry_time": "2026-04-25T23:51:44.504135+00:00",
+      "exit_time": "2026-04-26T07:40:17.987068+00:00",
+      "entry_rsi": 55.92,
+      "entry_score": 65,
+      "entry_change_24h": 0.0,
+      "entry_hour_utc": 23,
+      "entry_weekday": 5,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 30.98,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 31,
+      "score_technique": 68,
+      "score_macro": 45,
+      "score_sentiment": 35,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "exit_type_code": 3,
+      "entry_snapshot": {
+        "rsi": 55.92,
+        "score": 65,
+        "score_technique": 68,
+        "score_macro": 45,
+        "score_sentiment": 35,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "fear_greed": 31,
+        "entry_hour_utc": 23,
+        "entry_weekday": 5,
+        "btc_status": "ok",
+        "btc_change_at_entry": 0,
+        "claude_confidence": 50
+      },
+      "simulated": false
     }
   ],
   "stats": {
@@ -5206,6 +5253,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-26T07:16:56.518894",
+  "last_update": "2026-04-26T07:40:32.338679",
   "ml_accuracy": 79.2
 }
