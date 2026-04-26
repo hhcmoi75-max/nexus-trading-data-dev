@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-26T09:51:00.843227",
-    "win_rate_recent": 70.0
+    "last_update": "2026-04-26T09:55:21.545043",
+    "win_rate_recent": 60.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -5316,6 +5316,262 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "LINK",
+      "action": "TRAILING_STOP",
+      "exit_reason": "RESIDUEL_CLOTURE",
+      "entry_price_eur": 7.9415000000000004,
+      "exit_price_eur": 7.9415000000000004,
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "amount_eur": 4.73,
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.88,
+          "pnl_eur": 0.11,
+          "amount_eur": 12.5,
+          "exit_time": "2026-04-24T02:11:16.191398+00:00",
+          "score_tech": 20,
+          "adx": 11.1
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.66,
+          "pnl_eur": 0.06,
+          "amount_eur": 9.38,
+          "exit_time": "2026-04-24T12:41:18.706430+00:00",
+          "score_tech": 22,
+          "adx": 15.0
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.31,
+          "pnl_eur": 0.11,
+          "amount_eur": 8.44,
+          "exit_time": "2026-04-24T20:41:17.512212+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.33,
+          "pnl_eur": 0.08,
+          "amount_eur": 5.9,
+          "exit_time": "2026-04-25T10:06:20.796514+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.08,
+          "pnl_eur": 0.04,
+          "amount_eur": 4.13,
+          "exit_time": "2026-04-26T05:16:16.023378+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.11,
+          "pnl_eur": 0.03,
+          "amount_eur": 2.9,
+          "exit_time": "2026-04-26T07:16:19.847399+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.35,
+          "pnl_eur": 0.03,
+          "amount_eur": 2.02,
+          "exit_time": "2026-04-26T09:16:23.503026+00:00",
+          "confluence_signal": "SELL"
+        }
+      ],
+      "paliers_done": [],
+      "entry_time": "2026-04-22T23:41:23.705195+00:00",
+      "exit_time": "2026-04-26T09:54:19.881814+00:00",
+      "simulated": true,
+      "entry_rsi": 34.27,
+      "entry_score": 74
+    },
+    {
+      "asset": "NEAR",
+      "action": "TRAILING_STOP",
+      "exit_reason": "RESIDUEL_CLOTURE",
+      "entry_price_eur": 1.1969,
+      "exit_price_eur": 1.1969,
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "amount_eur": 3.05,
+      "partial_exits": [
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.74,
+          "pnl_eur": 0.09,
+          "amount_eur": 12.5,
+          "exit_time": "2026-04-24T02:06:27.306738+00:00",
+          "score_tech": 30,
+          "adx": 9.0
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.24,
+          "pnl_eur": 0.14,
+          "amount_eur": 11.25,
+          "exit_time": "2026-04-24T06:31:28.628499+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.98,
+          "pnl_eur": 0.06,
+          "amount_eur": 6.56,
+          "exit_time": "2026-04-24T06:36:27.000861+00:00",
+          "score_tech": 20,
+          "adx": 5.9
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.59,
+          "pnl_eur": 0.09,
+          "amount_eur": 5.91,
+          "exit_time": "2026-04-24T11:36:29.095299+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.41,
+          "pnl_eur": 0.05,
+          "amount_eur": 3.44,
+          "exit_time": "2026-04-24T12:21:32.292251+00:00",
+          "score_tech": 33,
+          "adx": 5.1
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.94,
+          "pnl_eur": 0.02,
+          "amount_eur": 2.58,
+          "exit_time": "2026-04-24T14:51:27.982229+00:00",
+          "score_tech": 33,
+          "adx": 4.7
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.54,
+          "pnl_eur": 0.04,
+          "amount_eur": 2.33,
+          "exit_time": "2026-04-24T15:56:27.897221+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.99,
+          "pnl_eur": 0.01,
+          "amount_eur": 1.36,
+          "exit_time": "2026-04-24T18:06:30.213163+00:00",
+          "score_tech": 33,
+          "adx": 9.3
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.04,
+          "pnl_eur": 0.01,
+          "amount_eur": 1.02,
+          "exit_time": "2026-04-25T04:11:25.698246+00:00",
+          "score_tech": 31,
+          "adx": 13.6
+        }
+      ],
+      "paliers_done": [],
+      "entry_time": "2026-04-23T00:01:29.324696+00:00",
+      "exit_time": "2026-04-26T09:54:19.881856+00:00",
+      "simulated": true,
+      "entry_rsi": 49.27,
+      "entry_score": 75
+    },
+    {
+      "asset": "APT",
+      "action": "TRAILING_STOP",
+      "exit_reason": "RESIDUEL_CLOTURE",
+      "entry_price_eur": 0.8091,
+      "exit_price_eur": 0.8091,
+      "pnl_pct": 0.0,
+      "pnl_eur": 0.0,
+      "amount_eur": 3.31,
+      "partial_exits": [
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.16,
+          "pnl_eur": 0.17,
+          "amount_eur": 15.0,
+          "exit_time": "2026-04-23T16:01:42.615952+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.04,
+          "pnl_eur": 0.11,
+          "amount_eur": 10.5,
+          "exit_time": "2026-04-24T00:11:38.308165+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 0.95,
+          "pnl_eur": 0.06,
+          "amount_eur": 6.12,
+          "exit_time": "2026-04-24T01:36:37.896445+00:00",
+          "score_tech": 24,
+          "adx": 12.3
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.01,
+          "pnl_eur": 0.06,
+          "amount_eur": 5.51,
+          "exit_time": "2026-04-24T02:26:38.717696+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.1,
+          "pnl_eur": 0.04,
+          "amount_eur": 3.86,
+          "exit_time": "2026-04-24T11:06:37.598754+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.97,
+          "pnl_eur": 0.05,
+          "amount_eur": 2.7,
+          "exit_time": "2026-04-24T13:11:37.803306+00:00",
+          "confluence_signal": "SELL"
+        },
+        {
+          "action": "SETUP_INVALID_EXIT",
+          "pnl_pct": 1.9,
+          "pnl_eur": 0.03,
+          "amount_eur": 1.58,
+          "exit_time": "2026-04-24T13:31:44.926719+00:00",
+          "score_tech": 9,
+          "adx": 11.5
+        },
+        {
+          "action": "MTF_SELL_EXIT",
+          "pnl_pct": 1.0,
+          "pnl_eur": 0.01,
+          "amount_eur": 1.42,
+          "exit_time": "2026-04-24T15:41:38.031116+00:00",
+          "confluence_signal": "SELL"
+        }
+      ],
+      "paliers_done": [],
+      "entry_time": "2026-04-23T00:26:41.134510+00:00",
+      "exit_time": "2026-04-26T09:54:19.881880+00:00",
+      "simulated": true,
+      "entry_rsi": 44.23,
+      "entry_score": 68
     }
   ],
   "stats": {
@@ -5328,6 +5584,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-04-26T09:51:55.202985",
-  "ml_accuracy": 78.4
+  "last_update": "2026-04-26T09:56:15.603957",
+  "ml_accuracy": 81.6
 }
