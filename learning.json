@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-04-26T10:16:00.879529",
-    "win_rate_recent": 60.0
+    "last_update": "2026-04-26T10:18:54.768651",
+    "win_rate_recent": 70.0
   },
   "asset_patterns": {
     "NEAR": {
@@ -5323,9 +5323,9 @@
       "exit_reason": "RESIDUEL_CLOTURE",
       "entry_price_eur": 7.9415000000000004,
       "exit_price_eur": 7.9415000000000004,
-      "pnl_pct": 0.0,
-      "pnl_eur": 0.0,
-      "amount_eur": 4.73,
+      "pnl_pct": 0.92,
+      "pnl_eur": 0.46,
+      "amount_eur": 50.0,
       "partial_exits": [
         {
           "action": "SETUP_INVALID_EXIT",
@@ -5399,9 +5399,9 @@
       "exit_reason": "RESIDUEL_CLOTURE",
       "entry_price_eur": 1.1969,
       "exit_price_eur": 1.1969,
-      "pnl_pct": 0.0,
-      "pnl_eur": 0.0,
-      "amount_eur": 3.05,
+      "pnl_pct": 1.02,
+      "pnl_eur": 0.51,
+      "amount_eur": 50.0,
       "partial_exits": [
         {
           "action": "SETUP_INVALID_EXIT",
@@ -5495,9 +5495,9 @@
       "exit_reason": "RESIDUEL_CLOTURE",
       "entry_price_eur": 0.8091,
       "exit_price_eur": 0.8091,
-      "pnl_pct": 0.0,
-      "pnl_eur": 0.0,
-      "amount_eur": 3.31,
+      "pnl_pct": 1.06,
+      "pnl_eur": 0.53,
+      "amount_eur": 50.0,
       "partial_exits": [
         {
           "action": "MTF_SELL_EXIT",
@@ -5576,12 +5576,12 @@
   ],
   "stats": {
     "total_closed": 78,
-    "wins": 47,
-    "losses": 31,
-    "win_rate": 60.3,
+    "wins": 50,
+    "losses": 28,
+    "win_rate": 64.1,
     "avg_pnl": 0.76,
-    "total_pnl": 18.05
+    "total_pnl": 19.55
   },
-  "last_update": "2026-04-26T10:16:56.425514",
-  "ml_accuracy": 81.6
+  "last_update": "2026-04-26T10:19:48.698144",
+  "ml_accuracy": 75.8
 }
