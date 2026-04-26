@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de consolidation neutre avec tous les actifs majeurs à 0% de variation, mais les nouvelles géopolitiques négatives (annulation du voyage Iran de Trump) et l'analyse technique suggérant un Bitcoin à 40K comme scenario statistiquement rare créent une tension baissière latente. L'adoption institutionnelle européenne en crypto et la conférence exclusive de Trump apportent des signaux contradictoires mais insuffisants pour inverser la pression.",
-  "risque_principal": "La dynamique baissière du Bitcoin combinée aux tensions géopolitiques pourrait déclencher une correction généralisée sur l'ensemble des altcoins.",
-  "opportunite_du_jour": "Les blockchains intégrées aux réseaux sociaux comme TON restent la seule catégorie performante selon l'historique récent du bot.",
+  "score_macro": 75,
+  "score_sentiment": 72,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'écosystème crypto montre des signaux d'adoption institutionnelle forte avec l'ETF Bitcoin de BlackRock franchissant des seuils majeurs et le soutien politique de Trump pour la législation crypto. Les déclarations d'Alchemy sur l'alignement crypto-IA et les développements d'Anthropic Mythos renforcent la narrative technologique positive.",
+  "risque_principal": "Les tokens centralisés d'exchanges et les nouvelles blockchains sans écosystème mature affichent une performance dégradée selon les leçons bot.",
+  "opportunite_du_jour": "L'émergence des blockchains intégrées à Telegram et l'adoption sociale massive créent une nouvelle catégorie ultra-performante à capitaliser.",
   "actifs_favorables": [
-    "TON",
-    "TRX",
-    "SOL"
+    "ETH",
+    "SOL",
+    "TRX"
   ],
   "actifs_risques": [
-    "BTC",
-    "BNB"
+    "BNB",
+    "XRP"
   ],
-  "last_claude_run": "2026-04-25T16:56:14.299925+00:00"
+  "last_claude_run": "2026-04-26T05:01:11.182069+00:00"
 }
