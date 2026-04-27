@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
+  "score_macro": 35,
+  "score_sentiment": 40,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase difficile avec un exode de 13 milliards d'investisseurs et des exploits DeFi majeurs comme Kelp DAO nécessitant 200M$ de couverture. Les baleines Bitcoin accumulent malgré des conditions de financement profondément négatives, tandis qu'1/3 des traders réduisent leurs dépenses quotidiennes à cause des conditions de marché.",
-  "risque_principal": "La menace de gel de 5.6 millions de bitcoins dormants pourrait déclencher le 'pire' re-pricing en une seule journée selon les analystes.",
-  "opportunite_du_jour": "Les positions longues des baleines Bitcoin sur financement négatif présentent un potentiel de rebond technique si la pression vendeuse s'atténue.",
+  "contexte": "Le marché crypto traverse une période de stress majeur avec l'exploit Kelp DAO nécessitant 200M$ de couverture et un exode de 13 milliards d'investisseurs DeFi. Les baleines Bitcoin accumulent malgré un funding profondément négatif, suggérant une divergence entre institutionnels et retail.",
+  "risque_principal": "Les exploits DeFi massifs créent une crise de confiance systémique menaçant la liquidité et l'adoption institutionnelle.",
+  "opportunite_du_jour": "Le sentiment Reddit modéré (50/100) combiné au win rate bot en amélioration (64.1%) indique un potentiel de retournement sur les altcoins spécialisés.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "SOL"
+    "INJ",
+    "SEI",
+    "ATOM"
   ],
   "actifs_risques": [
-    "BNB",
-    "XRP"
+    "ETH",
+    "BTC"
   ],
-  "last_claude_run": "2026-04-26T17:06:11.392762+00:00"
+  "last_claude_run": "2026-04-27T05:06:26.551653+00:00"
 }
