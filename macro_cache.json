@@ -2,17 +2,17 @@
   "score_macro": 35,
   "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto subit une pression multiple avec l'incertitude Fed, le ralentissement IA et la fatigue du rally Bitcoin signalée par des indicateurs techniques baissiers. Le plan de sauvetage massif pour les utilisateurs Aave post-hack révèle une fragilité systémique inquiétante malgré la solidarité sectorielle.",
-  "risque_principal": "La convergence des facteurs macro négatifs (Fed, pétrole) avec des signaux techniques baissiers sur Bitcoin crée un environnement de risk-off généralisé.",
-  "opportunite_du_jour": "Western Union explorant les stablecoins pour contourner SWIFT ouvre une adoption institutionnelle majeure hors crypto-natives.",
+  "contexte": "Le pétrole à 100$ déclenche des craintes de crise asiatique alimentant l'aversion au risque sur les cryptos. Bitcoin teste des plus bas d'une semaine malgré les développements positifs d'adoption institutionnelle.",
+  "risque_principal": "La corrélation négative entre pétrole élevé et actifs risqués pourrait amplifier la pression vendeuse sur l'ensemble des cryptomonnaies.",
+  "opportunite_du_jour": "L'expansion de Chiliz vers Solana et Base offre un potentiel de diversification cross-chain pendant la consolidation du marché.",
   "actifs_favorables": [
+    "CHZ",
     "INJ",
-    "SEI",
-    "ATOM"
+    "SEI"
   ],
   "actifs_risques": [
     "BTC",
     "ETH"
   ],
-  "last_claude_run": "2026-04-28T05:16:10.099340+00:00"
+  "last_claude_run": "2026-04-28T17:21:15.453708+00:00"
 }
