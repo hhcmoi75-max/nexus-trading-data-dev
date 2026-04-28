@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "L'écosystème crypto montre une maturité croissante avec l'adoption institutionnelle (Saylor ajoutant 3,2K BTC) et l'expansion des stablecoins vers 5T$ d'ici 2035. La préparation proactive contre les menaces quantiques sur Solana et les solutions de dette décentralisées démontrent une évolution technique robuste.",
-  "risque_principal": "Bitcoin grimpe sur des volumes faibles, rendant le rally vulnérable à un choc macro selon CoinDesk.",
-  "opportunite_du_jour": "Les protocoles DEX derivatives maintiennent une dominance reproductible avec INJ récurrent dans le top gains, offrant des opportunités de trading structurelles.",
+  "score_macro": 35,
+  "score_sentiment": 25,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto subit une pression multiple avec l'incertitude Fed, le ralentissement IA et la fatigue du rally Bitcoin signalée par des indicateurs techniques baissiers. Le plan de sauvetage massif pour les utilisateurs Aave post-hack révèle une fragilité systémique inquiétante malgré la solidarité sectorielle.",
+  "risque_principal": "La convergence des facteurs macro négatifs (Fed, pétrole) avec des signaux techniques baissiers sur Bitcoin crée un environnement de risk-off généralisé.",
+  "opportunite_du_jour": "Western Union explorant les stablecoins pour contourner SWIFT ouvre une adoption institutionnelle majeure hors crypto-natives.",
   "actifs_favorables": [
-    "SOL",
     "INJ",
+    "SEI",
     "ATOM"
   ],
   "actifs_risques": [
     "BTC",
-    "TRX"
+    "ETH"
   ],
-  "last_claude_run": "2026-04-27T17:11:13.038107+00:00"
+  "last_claude_run": "2026-04-28T05:16:10.099340+00:00"
 }
