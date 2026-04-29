@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 40,
+  "score_macro": 35,
+  "score_sentiment": 25,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto évolue dans un environnement réglementaire contraignant avec la proposition canadienne d'interdiction des ATM crypto, tandis que les revenus crypto de Robinhood chutent de 50% signalant un ralentissement de l'adoption retail. Malgré l'optimisme institutionnel sur Bitcoin et l'attente de la décision Fed, la pression vendeuse sur XRP et la baisse générale des volumes créent une atmosphère de prudence.",
-  "risque_principal": "La multiplication des restrictions réglementaires pourrait déclencher une vague de liquidations en cascade sur les altcoins les plus exposés.",
-  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ maintiennent leur momentum haussier malgré le contexte défavorable, offrant des opportunités de trading contrarian.",
+  "contexte": "Le marché crypto traverse une phase de consolidation défensive avec tous les actifs majeurs en stagnation (0.0%) dans l'attente des décisions FOMC. Les nouvelles négatives dominent avec le rejet du plan Iran par Trump causant une déroute des actions crypto (Robinhood, Coinbase) et le Coinbase Premium négatif signalant 6 milliards de pertes réalisées.",
+  "risque_principal": "La combinaison toxique d'un sentiment Reddit faible (50/100), de pertes massives réalisées et de l'incertitude géopolitique Iran-Trump crée un environnement propice aux liquidations en cascade.",
+  "opportunite_du_jour": "DOGE émerge comme leader (+12%) dans ce rally pré-FOMC avec un objectif technique à 0.33$, bénéficiant d'une dynamique divergente du marché général.",
   "actifs_favorables": [
+    "DOGE",
     "INJ",
-    "SEI",
-    "ATOM"
+    "SEI"
   ],
   "actifs_risques": [
-    "XRP",
-    "BNB"
+    "BTC",
+    "ETH"
   ],
-  "last_claude_run": "2026-04-29T05:26:10.242027+00:00"
+  "last_claude_run": "2026-04-29T17:31:14.063958+00:00"
 }
