@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
+  "score_macro": 45,
+  "score_sentiment": 40,
   "tendance_marche": "BAISSIER",
-  "contexte": "Le pétrole à 100$ déclenche des craintes de crise asiatique alimentant l'aversion au risque sur les cryptos. Bitcoin teste des plus bas d'une semaine malgré les développements positifs d'adoption institutionnelle.",
-  "risque_principal": "La corrélation négative entre pétrole élevé et actifs risqués pourrait amplifier la pression vendeuse sur l'ensemble des cryptomonnaies.",
-  "opportunite_du_jour": "L'expansion de Chiliz vers Solana et Base offre un potentiel de diversification cross-chain pendant la consolidation du marché.",
+  "contexte": "Le marché crypto évolue dans un environnement réglementaire contraignant avec la proposition canadienne d'interdiction des ATM crypto, tandis que les revenus crypto de Robinhood chutent de 50% signalant un ralentissement de l'adoption retail. Malgré l'optimisme institutionnel sur Bitcoin et l'attente de la décision Fed, la pression vendeuse sur XRP et la baisse générale des volumes créent une atmosphère de prudence.",
+  "risque_principal": "La multiplication des restrictions réglementaires pourrait déclencher une vague de liquidations en cascade sur les altcoins les plus exposés.",
+  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ maintiennent leur momentum haussier malgré le contexte défavorable, offrant des opportunités de trading contrarian.",
   "actifs_favorables": [
-    "CHZ",
     "INJ",
-    "SEI"
+    "SEI",
+    "ATOM"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "XRP",
+    "BNB"
   ],
-  "last_claude_run": "2026-04-28T17:21:15.453708+00:00"
+  "last_claude_run": "2026-04-29T05:26:10.242027+00:00"
 }
