@@ -1,18 +1,18 @@
 {
-  "score_macro": 35,
-  "score_sentiment": 25,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto traverse une phase de consolidation défensive avec tous les actifs majeurs en stagnation (0.0%) dans l'attente des décisions FOMC. Les nouvelles négatives dominent avec le rejet du plan Iran par Trump causant une déroute des actions crypto (Robinhood, Coinbase) et le Coinbase Premium négatif signalant 6 milliards de pertes réalisées.",
-  "risque_principal": "La combinaison toxique d'un sentiment Reddit faible (50/100), de pertes massives réalisées et de l'incertitude géopolitique Iran-Trump crée un environnement propice aux liquidations en cascade.",
-  "opportunite_du_jour": "DOGE émerge comme leader (+12%) dans ce rally pré-FOMC avec un objectif technique à 0.33$, bénéficiant d'une dynamique divergente du marché général.",
+  "score_macro": 72,
+  "score_sentiment": 68,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Les déclarations d'Eric Trump sur Bitcoin dans sa 'plus grande période' avec l'alignement de Wall Street, combinées aux investissements massifs de Big Tech dans l'IA, créent un environnement macro favorable. Les initiatives de régulation avec le démantèlement conjoint USA-UAE-Chine de centres de scam crypto renforcent la légitimité institutionnelle du secteur.",
+  "risque_principal": "Les futures Bitcoin signalent une prudence avec un shift du ratio long-to-short, indiquant un repositionnement défensif des institutionnels malgré l'euphorie narrative.",
+  "opportunite_du_jour": "INJ démontre une dominance absolue sur les protocoles DeFi spécialisés en derivatives avec trois positions gagnantes dans le top 5, révélant un alpha structurel exploitable.",
   "actifs_favorables": [
-    "DOGE",
     "INJ",
-    "SEI"
+    "BTC",
+    "HYPE"
   ],
   "actifs_risques": [
-    "BTC",
-    "ETH"
+    "ARB",
+    "OP"
   ],
-  "last_claude_run": "2026-04-29T17:31:14.063958+00:00"
+  "last_claude_run": "2026-04-30T05:36:11.304294+00:00"
 }
