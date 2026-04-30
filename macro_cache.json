@@ -1,18 +1,18 @@
 {
   "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Les déclarations d'Eric Trump sur Bitcoin dans sa 'plus grande période' avec l'alignement de Wall Street, combinées aux investissements massifs de Big Tech dans l'IA, créent un environnement macro favorable. Les initiatives de régulation avec le démantèlement conjoint USA-UAE-Chine de centres de scam crypto renforcent la légitimité institutionnelle du secteur.",
-  "risque_principal": "Les futures Bitcoin signalent une prudence avec un shift du ratio long-to-short, indiquant un repositionnement défensif des institutionnels malgré l'euphorie narrative.",
-  "opportunite_du_jour": "INJ démontre une dominance absolue sur les protocoles DeFi spécialisés en derivatives avec trois positions gagnantes dans le top 5, révélant un alpha structurel exploitable.",
+  "score_sentiment": 65,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto évoluent dans une phase de consolidation avec des prix stables (0.0% sur tous les actifs majeurs) tandis que l'écosystème des marchés de prédiction connaît une structuration réglementaire accélérée. L'émergence de nouvelles plateformes DeFi institutionnelles et le renforcement de la surveillance anti-manipulation signalent une maturation du secteur.",
+  "risque_principal": "L'enquête sénatoriale sur les liens entre Tether et les responsables gouvernementaux pourrait déclencher une volatilité systémique sur l'ensemble du marché crypto.",
+  "opportunite_du_jour": "INJ maintient sa domination absolue dans les protocoles DeFi de derivatives avec une performance exceptionnelle constante.",
   "actifs_favorables": [
     "INJ",
     "BTC",
-    "HYPE"
+    "ETH"
   ],
   "actifs_risques": [
-    "ARB",
-    "OP"
+    "DOT",
+    "ARB"
   ],
-  "last_claude_run": "2026-04-30T05:36:11.304294+00:00"
+  "last_claude_run": "2026-04-30T17:41:13.081687+00:00"
 }
