@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
+  "score_macro": 75,
   "score_sentiment": 65,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto évoluent dans une phase de consolidation avec des prix stables (0.0% sur tous les actifs majeurs) tandis que l'écosystème des marchés de prédiction connaît une structuration réglementaire accélérée. L'émergence de nouvelles plateformes DeFi institutionnelles et le renforcement de la surveillance anti-manipulation signalent une maturation du secteur.",
-  "risque_principal": "L'enquête sénatoriale sur les liens entre Tether et les responsables gouvernementaux pourrait déclencher une volatilité systémique sur l'ensemble du marché crypto.",
-  "opportunite_du_jour": "INJ maintient sa domination absolue dans les protocoles DeFi de derivatives avec une performance exceptionnelle constante.",
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Bitcoin maintient sa position à 65771€ avec une pression haussière vers les 77K$ selon les analyses techniques, soutenu par l'intérêt institutionnel croissant malgré l'absence de levier spot. Les nouvelles réglementaires américaines sur les marchés de prédiction créent un environnement plus structuré pour les cryptoactifs institutionnels.",
+  "risque_principal": "L'absence de levier spot et long limite les rallyes crypto selon CoinTelegraph, pouvant freiner l'élan haussier actuel.",
+  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ continuent de dominer avec des gains récurrents, profitant de l'essor des dérivés décentralisés.",
   "actifs_favorables": [
-    "INJ",
     "BTC",
+    "INJ",
     "ETH"
   ],
   "actifs_risques": [
-    "DOT",
+    "OP",
     "ARB"
   ],
-  "last_claude_run": "2026-04-30T17:41:13.081687+00:00"
+  "last_claude_run": "2026-05-01T05:46:10.050230+00:00"
 }
