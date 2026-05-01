@@ -1,18 +1,18 @@
 {
   "score_macro": 75,
-  "score_sentiment": 65,
+  "score_sentiment": 70,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin maintient sa position à 65771€ avec une pression haussière vers les 77K$ selon les analyses techniques, soutenu par l'intérêt institutionnel croissant malgré l'absence de levier spot. Les nouvelles réglementaires américaines sur les marchés de prédiction créent un environnement plus structuré pour les cryptoactifs institutionnels.",
-  "risque_principal": "L'absence de levier spot et long limite les rallyes crypto selon CoinTelegraph, pouvant freiner l'élan haussier actuel.",
-  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ continuent de dominer avec des gains récurrents, profitant de l'essor des dérivés décentralisés.",
+  "contexte": "L'environnement crypto montre des signaux positifs avec Tether générant 1.04 milliard de profit Q1 et constituant 8.23 milliards de réserves, tandis que les institutions canadiennes accumulent massivement. L'émergence d'agents IA autonomes créant leurs propres sociétés pour trader crypto marque une nouvelle ère d'adoption institutionnelle et technologique.",
+  "risque_principal": "La stagnation du bot à 61.9% de win rate avec un plateau de performance suggère des limites architecturales qui pourraient impacter la rentabilité future.",
+  "opportunite_du_jour": "INJ domine absolument avec 3 positions dans le top 5 des gains, confirmant la supériorité des protocoles DeFi spécialisés en derivatives.",
   "actifs_favorables": [
-    "BTC",
     "INJ",
-    "ETH"
+    "BTC",
+    "TAO"
   ],
   "actifs_risques": [
-    "OP",
-    "ARB"
+    "DOT",
+    "SOL"
   ],
-  "last_claude_run": "2026-05-01T05:46:10.050230+00:00"
+  "last_claude_run": "2026-05-01T17:51:09.486455+00:00"
 }
