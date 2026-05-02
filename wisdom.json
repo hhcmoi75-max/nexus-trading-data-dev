@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "INJ établit une monopolisation absolue des top trades avec 4/5 positions (+10.8%, +8.1%, +5.6%, +4.7%), révélant une concentration de performance inégalée nécessitant un rebalancement de l'allocation vers ce single asset",
+    "La stabilité du PnL à 0.62% malgré l'augmentation du win rate à 61.2% indique un phénomène de dilution des gains par multiplication des micro-positions faiblement rentables",
+    "L'émergence simultanée de TON dans les top gains précédents ET pires pertes (-5.1%) confirme un pattern de volatilité cyclique requérant une approche timing-based plutôt que hold-based",
+    "La persistance d'APT à 25% de win rate après sa chute de statut révèle un piège de value trap sur les blockchains Move-language malgré leur innovation technique",
+    "XLM rejoint APT à exactement 25% de win rate, établissant un seuil critique de performance où les tokens de paiements et smart contracts alternatifs convergent vers l'échec",
+    "La parfaite corrélation entre blockchains proof-of-stake pures (ALGO, ATOM) et 100% win rate révèle une supériorité des mécanismes de consensus écoénergétiques sur les systèmes hybrides",
+    "La réhabilitation spectaculaire de FIL en position #3 des gains (+8.0%) après ses échecs précédents démontre la capacité du marché crypto à inverser brutalement les narratives sectorielles",
     "INJ démontre une dominance absolue avec 3 positions dans le top 5 des gains (+10.8%, +8.1%, +5.6%), révélant une supériorité écrasante des protocoles DeFi spécialisés en derivatives sur tous autres secteurs",
     "La corrélation négative parfaite entre layer-2 et performance se confirme avec OP (-5.2%) et ARB (-5.1%) dans les pires trades, indiquant une aversion structurelle du bot aux solutions de scaling Ethereum",
     "BTC atteint enfin 100% de win rate avec un gain notable (+5.5%), marquant un retournement fondamental vers la reconnaissance de la réserve de valeur digitale dans l'algorithme",
@@ -43,23 +50,23 @@
     "FIL"
   ],
   "actifs_a_eviter": [
-    "DOT",
-    "OP",
-    "ARB",
-    "APT",
-    "POL",
     "MSFT",
     "NVDA",
-    "BNB"
+    "BNB",
+    "APT",
+    "XLM",
+    "DOT",
+    "OP",
+    "ARB"
   ],
-  "conditions_favorables": "Marchés favorisant les protocoles DeFi spécialisés et blockchains à consensus alternatifs avec forte adoption, évitant les périodes de volatilité sur layer-2 et actifs d'exchange centralisés",
-  "erreurs_recurrentes": "Exposition excessive aux solutions layer-2 Ethereum et tokens d'exchange centralisés qui génèrent systématiquement des pertes, avec sous-estimation des protocoles derivatives spécialisés",
+  "conditions_favorables": "Marchés favorisant les protocoles DeFi derivatives, consensus proof-of-stake, et écosystèmes cross-chain avec forte adoption sociale, évitant les périodes de rotation vers layer-2 et assets traditionnels",
+  "erreurs_recurrentes": "Sur-diversification diluant l'impact des winners absolus comme INJ, persistance sur des assets à 25% win rate, et exposition continue aux layer-2 malgré leurs échecs répétés",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.055,
-  "strategie_recommandee": "Concentrer 60% de l'allocation sur INJ et les actifs 100% win rate, avec exclusion totale des layer-2 et actifs centralisés. Implémenter un système de momentum suivant INJ comme signal directeur pour les autres positions DeFi.",
-  "last_distillation": "2026-04-29T19:45:19.172285+00:00",
-  "trades_analyzed": 95,
-  "win_rate_at_distill": 61.0,
+  "recommandation_stop_loss": 0.06,
+  "strategie_recommandee": "Concentrer massivement l'allocation sur INJ qui monopolise les gains tout en maintenant une diversification minimale sur les 100% win rate assets. Éliminer définitivement l'exposition aux layer-2, actions traditionnelles et tokens sous 30% de performance historique.",
+  "last_distillation": "2026-05-02T19:50:19.212759+00:00",
+  "trades_analyzed": 98,
+  "win_rate_at_distill": 61.2,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
