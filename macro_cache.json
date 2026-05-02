@@ -1,18 +1,18 @@
 {
   "score_macro": 75,
-  "score_sentiment": 70,
+  "score_sentiment": 80,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'environnement crypto montre des signaux positifs avec Tether générant 1.04 milliard de profit Q1 et constituant 8.23 milliards de réserves, tandis que les institutions canadiennes accumulent massivement. L'émergence d'agents IA autonomes créant leurs propres sociétés pour trader crypto marque une nouvelle ère d'adoption institutionnelle et technologique.",
-  "risque_principal": "La stagnation du bot à 61.9% de win rate avec un plateau de performance suggère des limites architecturales qui pourraient impacter la rentabilité future.",
-  "opportunite_du_jour": "INJ domine absolument avec 3 positions dans le top 5 des gains, confirmant la supériorité des protocoles DeFi spécialisés en derivatives.",
+  "contexte": "Le CLARITY Act finalise les règles sur les stablecoins créant un cadre réglementaire favorable, tandis que l'adoption institutionnelle s'accélère avec AIMCo et les pivots stratégiques vers l'IA. Les fondamentaux crypto se renforcent malgré des prix stables, avec Bitcoin montrant une probabilité de 25% d'atteindre 84K$ en mai selon les options.",
+  "risque_principal": "La stagnation des prix à 0.0% de variation sur tous les actifs majeurs suggère une consolidation précaire qui pourrait se transformer en correction brutale.",
+  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ dominent avec une performance exceptionnelle tandis que Bitcoin retrouve enfin un win rate de 100%.",
   "actifs_favorables": [
     "INJ",
     "BTC",
-    "TAO"
+    "Stablecoins"
   ],
   "actifs_risques": [
-    "DOT",
-    "SOL"
+    "OP",
+    "ARB"
   ],
-  "last_claude_run": "2026-05-01T17:51:09.486455+00:00"
+  "last_claude_run": "2026-05-02T05:56:09.712204+00:00"
 }
