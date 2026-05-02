@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 80,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le CLARITY Act finalise les règles sur les stablecoins créant un cadre réglementaire favorable, tandis que l'adoption institutionnelle s'accélère avec AIMCo et les pivots stratégiques vers l'IA. Les fondamentaux crypto se renforcent malgré des prix stables, avec Bitcoin montrant une probabilité de 25% d'atteindre 84K$ en mai selon les options.",
-  "risque_principal": "La stagnation des prix à 0.0% de variation sur tous les actifs majeurs suggère une consolidation précaire qui pourrait se transformer en correction brutale.",
-  "opportunite_du_jour": "Les protocoles DeFi spécialisés comme INJ dominent avec une performance exceptionnelle tandis que Bitcoin retrouve enfin un win rate de 100%.",
+  "score_macro": 25,
+  "score_sentiment": 30,
+  "tendance_marche": "BAISSIER",
+  "contexte": "L'écosystème crypto traverse une période de turbulences réglementaires majeures avec l'interdiction des stablecoins par le Brésil et un hack DeFi de 292M$ exposant les failles structurelles. Le sentiment Reddit à 50/100 et la stagnation totale des prix (0.0% sur tous actifs) révèlent une paralysie du marché face aux incertitudes.",
+  "risque_principal": "La cascade réglementaire initiée par le Brésil pourrait déclencher des interdictions similaires dans d'autres juridictions émergentes, fragilisant l'infrastructure des paiements cross-border crypto.",
+  "opportunite_du_jour": "INJ maintient sa domination algorithmique avec 3 positions gagnantes majeures, confirmant la résilience des protocoles DeFi spécialisés face aux turbulences sectorielles.",
   "actifs_favorables": [
     "INJ",
     "BTC",
-    "Stablecoins"
+    "XAU"
   ],
   "actifs_risques": [
-    "OP",
-    "ARB"
+    "DOT",
+    "OP"
   ],
-  "last_claude_run": "2026-05-02T05:56:09.712204+00:00"
+  "last_claude_run": "2026-05-02T18:01:10.744022+00:00"
 }
