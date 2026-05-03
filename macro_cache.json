@@ -1,18 +1,18 @@
 {
   "score_macro": 45,
   "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "L'environnement réglementaire se durcit avec l'interdiction des stablecoins par le Brésil et les révélations de failles de sécurité majeures dans l'écosystème DeFi suite au hack de 292M$. Malgré la performance positive d'avril pour Bitcoin, l'accumulation de risques systémiques et techniques pèse sur la confiance globale.",
-  "risque_principal": "La multiplication des incidents de sécurité et restrictions réglementaires crée une spirale de défiance institutionnelle.",
-  "opportunite_du_jour": "INJ maintient sa domination avec 4/5 top trades, offrant une concentration de performance unique malgré l'environnement adverse.",
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0.0% dans un contexte politique défavorable où les Américains privilégient les banques traditionnelles et manifestent une défiance envers l'administration Trump sur la crypto. La faible priorité accordée à la crypto par les électeurs américains et la méfiance généralisée créent un environnement incertain malgré le potentiel technique de Bitcoin près des 79K.",
+  "risque_principal": "La défiance politique croissante des Américains envers la crypto combinée à la préférence persistante pour les services bancaires traditionnels pourrait déclencher une correction significative.",
+  "opportunite_du_jour": "Bitcoin montre une résilience technique en préparant sa plus haute clôture hebdomadaire depuis janvier près des 79K malgré le sentiment négatif.",
   "actifs_favorables": [
-    "INJ",
     "BTC",
+    "INJ",
     "XAU"
   ],
   "actifs_risques": [
     "APT",
     "XLM"
   ],
-  "last_claude_run": "2026-05-03T06:06:08.038819+00:00"
+  "last_claude_run": "2026-05-03T18:11:11.451348+00:00"
 }
