@@ -1,18 +1,18 @@
 {
-  "score_macro": 25,
-  "score_sentiment": 30,
+  "score_macro": 45,
+  "score_sentiment": 35,
   "tendance_marche": "BAISSIER",
-  "contexte": "L'écosystème crypto traverse une période de turbulences réglementaires majeures avec l'interdiction des stablecoins par le Brésil et un hack DeFi de 292M$ exposant les failles structurelles. Le sentiment Reddit à 50/100 et la stagnation totale des prix (0.0% sur tous actifs) révèlent une paralysie du marché face aux incertitudes.",
-  "risque_principal": "La cascade réglementaire initiée par le Brésil pourrait déclencher des interdictions similaires dans d'autres juridictions émergentes, fragilisant l'infrastructure des paiements cross-border crypto.",
-  "opportunite_du_jour": "INJ maintient sa domination algorithmique avec 3 positions gagnantes majeures, confirmant la résilience des protocoles DeFi spécialisés face aux turbulences sectorielles.",
+  "contexte": "L'environnement réglementaire se durcit avec l'interdiction des stablecoins par le Brésil et les révélations de failles de sécurité majeures dans l'écosystème DeFi suite au hack de 292M$. Malgré la performance positive d'avril pour Bitcoin, l'accumulation de risques systémiques et techniques pèse sur la confiance globale.",
+  "risque_principal": "La multiplication des incidents de sécurité et restrictions réglementaires crée une spirale de défiance institutionnelle.",
+  "opportunite_du_jour": "INJ maintient sa domination avec 4/5 top trades, offrant une concentration de performance unique malgré l'environnement adverse.",
   "actifs_favorables": [
     "INJ",
     "BTC",
     "XAU"
   ],
   "actifs_risques": [
-    "DOT",
-    "OP"
+    "APT",
+    "XLM"
   ],
-  "last_claude_run": "2026-05-02T18:01:10.744022+00:00"
+  "last_claude_run": "2026-05-03T06:06:08.038819+00:00"
 }
