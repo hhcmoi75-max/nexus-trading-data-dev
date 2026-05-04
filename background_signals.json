@@ -1,44 +1,7 @@
 {
-  "last_scan": "2026-05-04T17:12:19.526751",
-  "total_scanned": 3,
-  "top_signals": [
-    {
-      "asset": "DASH",
-      "name": "DASH",
-      "type": "crypto",
-      "price_eur": 40.278221,
-      "change_24h": 22.68,
-      "volume_usd": 65694532.0,
-      "signal": "BUY",
-      "strength": 22.7,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "ZEC",
-      "name": "ZEC",
-      "type": "crypto",
-      "price_eur": 349.618024,
-      "change_24h": 3.21,
-      "volume_usd": 152198561.0,
-      "signal": "WATCH",
-      "strength": 3.2,
-      "source": "Binance background",
-      "layer": 2
-    },
-    {
-      "asset": "PEPE",
-      "name": "PEPE",
-      "type": "crypto",
-      "price_eur": 3e-06,
-      "change_24h": 2.53,
-      "volume_usd": 54239590.0,
-      "signal": "WATCH",
-      "strength": 2.5,
-      "source": "Binance background",
-      "layer": 2
-    }
-  ],
-  "extreme_count": 1,
+  "last_scan": "2026-05-04T17:17:04.606596",
+  "total_scanned": 0,
+  "top_signals": [],
+  "extreme_count": 0,
   "eur_rate": 0.85281009
 }
