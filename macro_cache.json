@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
+  "score_macro": 75,
   "score_sentiment": 72,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto affiche une consolidation stable avec BTC à 68K EUR tandis que des signaux haussiers émergent sur XRP (+40 cents) et DOGE (+4%). Les prédictions optimistes de Peter Brandt (BTC à 250K$) contrastent avec la prudence institutionnelle qui suspend temporairement les achats avant résultats.",
-  "risque_principal": "La concentration excessive sur INJ (monopolisation 4/5 top trades) crée un risque de sur-allocation critique nécessitant un rebalancement immédiat.",
-  "opportunite_du_jour": "XRP montre une breakout technique au-dessus de 1.40$ avec volumes en hausse, offrant un momentum de continuation haussière.",
+  "contexte": "Bitcoin franchit la barre psychologique des 80 000$ soutenus par les avancées réglementaires américaines (Clarity Act) et l'adoption institutionnelle accélérée avec DTCC lançant une plateforme de titres tokenisés. L'écosystème crypto bénéficie d'un momentum institutionnel fort malgré les tensions géopolitiques avec l'Iran qui maintiennent une volatilité sous-jacente.",
+  "risque_principal": "Les tensions géopolitiques avec l'Iran créent une instabilité sur les actifs risqués pouvant déclencher des corrections brutales malgré le momentum haussier.",
+  "opportunite_du_jour": "La tokenisation institutionnelle via DTCC et l'adoption corporate (Shopify, National Bank of Canada) offrent un catalyseur structurel pour les infrastructures blockchain établies.",
   "actifs_favorables": [
-    "XRP",
-    "DOGE",
-    "BTC"
+    "BTC",
+    "ETH",
+    "BNB"
   ],
   "actifs_risques": [
-    "APT",
-    "XLM"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-05-04T06:16:11.150713+00:00"
+  "last_claude_run": "2026-05-04T18:21:12.412660+00:00"
 }
