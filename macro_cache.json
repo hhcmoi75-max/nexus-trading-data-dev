@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0.0% dans un contexte politique défavorable où les Américains privilégient les banques traditionnelles et manifestent une défiance envers l'administration Trump sur la crypto. La faible priorité accordée à la crypto par les électeurs américains et la méfiance généralisée créent un environnement incertain malgré le potentiel technique de Bitcoin près des 79K.",
-  "risque_principal": "La défiance politique croissante des Américains envers la crypto combinée à la préférence persistante pour les services bancaires traditionnels pourrait déclencher une correction significative.",
-  "opportunite_du_jour": "Bitcoin montre une résilience technique en préparant sa plus haute clôture hebdomadaire depuis janvier près des 79K malgré le sentiment négatif.",
+  "score_macro": 65,
+  "score_sentiment": 72,
+  "tendance_marche": "HAUSSIER",
+  "contexte": "Le marché crypto affiche une consolidation stable avec BTC à 68K EUR tandis que des signaux haussiers émergent sur XRP (+40 cents) et DOGE (+4%). Les prédictions optimistes de Peter Brandt (BTC à 250K$) contrastent avec la prudence institutionnelle qui suspend temporairement les achats avant résultats.",
+  "risque_principal": "La concentration excessive sur INJ (monopolisation 4/5 top trades) crée un risque de sur-allocation critique nécessitant un rebalancement immédiat.",
+  "opportunite_du_jour": "XRP montre une breakout technique au-dessus de 1.40$ avec volumes en hausse, offrant un momentum de continuation haussière.",
   "actifs_favorables": [
-    "BTC",
-    "INJ",
-    "XAU"
+    "XRP",
+    "DOGE",
+    "BTC"
   ],
   "actifs_risques": [
     "APT",
     "XLM"
   ],
-  "last_claude_run": "2026-05-03T18:11:11.451348+00:00"
+  "last_claude_run": "2026-05-04T06:16:11.150713+00:00"
 }
