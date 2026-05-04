@@ -13,8 +13,8 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-04T10:11:02.539006",
-    "win_rate_recent": 63.3
+    "last_update": "2026-05-04T10:16:00.137814",
+    "win_rate_recent": 66.7
   },
   "asset_patterns": {
     "NEAR": {
@@ -6365,6 +6365,6 @@
     "best_trade": 13.87,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-04T10:11:57.409474",
+  "last_update": "2026-05-04T10:16:51.379037",
   "ml_accuracy": 84.2
 }
