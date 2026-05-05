@@ -1,5 +1,11 @@
 {
   "lecons_cles": [
+    "ETC émerge comme nouvelle star inattendue (+8.3%, 2ème meilleur trade) révélant que les blockchains legacy proof-of-work survivantes surperforment paradoxalement dans un marché dominé par le PoS",
+    "La régression simultanée d'APT et XLM vers exactement 25% de win rate cristallise un 'seuil de médiocrité' où les projets en déclin convergent mathématiquement",
+    "DOT détrône tous les autres dans les pires performances (-5.4%) malgré son écosystème parachain mature, exposant l'obsolescence des architectures multi-chaînes complexes face aux layer-1 monolithiques",
+    "La triple domination d'INJ (3/5 top trades) avec des gains décroissants (+10.8%, +8.1%, +5.6%) révèle un pattern de rendements marginaux décroissants même sur les actifs ultra-performants",
+    "La stagnation du PnL à 0.61% malgré l'amélioration du win rate à 61.8% confirme un phénomène de 'success trap' où plus de trades gagnants diluent la rentabilité globale",
+    "L'émergence d'ETC comme seul actif proof-of-work performant (hors BTC) suggère une prime de rareté sur les blockchains PoW survivantes dans un écosystème PoS-dominant",
     "INJ établit une monopolisation absolue des top trades avec 4/5 positions (+10.8%, +8.1%, +5.6%, +4.7%), révélant une concentration de performance inégalée nécessitant un rebalancement de l'allocation vers ce single asset",
     "La stabilité du PnL à 0.62% malgré l'augmentation du win rate à 61.2% indique un phénomène de dilution des gains par multiplication des micro-positions faiblement rentables",
     "L'émergence simultanée de TON dans les top gains précédents ET pires pertes (-5.1%) confirme un pattern de volatilité cyclique requérant une approche timing-based plutôt que hold-based",
@@ -41,32 +47,32 @@
   ],
   "actifs_a_privilegier": [
     "INJ",
+    "ETC",
     "BTC",
     "TRX",
     "ALGO",
     "SEI",
     "ATOM",
-    "TON",
-    "FIL"
+    "TON"
   ],
   "actifs_a_eviter": [
-    "MSFT",
-    "NVDA",
-    "BNB",
-    "APT",
-    "XLM",
     "DOT",
     "OP",
+    "APT",
+    "XLM",
+    "BNB",
+    "MSFT",
+    "NVDA",
     "ARB"
   ],
-  "conditions_favorables": "Marchés favorisant les protocoles DeFi derivatives, consensus proof-of-stake, et écosystèmes cross-chain avec forte adoption sociale, évitant les périodes de rotation vers layer-2 et assets traditionnels",
-  "erreurs_recurrentes": "Sur-diversification diluant l'impact des winners absolus comme INJ, persistance sur des assets à 25% win rate, et exposition continue aux layer-2 malgré leurs échecs répétés",
+  "conditions_favorables": "Marché favorisant les blockchains à consensus simple (PoW/PoS purs) et les protocoles DeFi spécialisés, avec aversion pour les architectures complexes multi-chaînes et les layer-2",
+  "erreurs_recurrentes": "Sur-trading sur les actifs à faible win rate persistant (APT, XLM à 25%) et allocation insuffisante sur les actifs à performance prouvée comme INJ",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.06,
-  "strategie_recommandee": "Concentrer massivement l'allocation sur INJ qui monopolise les gains tout en maintenant une diversification minimale sur les 100% win rate assets. Éliminer définitivement l'exposition aux layer-2, actions traditionnelles et tokens sous 30% de performance historique.",
-  "last_distillation": "2026-05-02T19:50:19.212759+00:00",
-  "trades_analyzed": 98,
-  "win_rate_at_distill": 61.2,
+  "recommandation_stop_loss": 0.055,
+  "strategie_recommandee": "Concentrer 60% de l'allocation sur les 5 actifs parfaits (100% win rate) et éliminer définitivement tout actif sous 30% de win rate. Implémenter un système de position-sizing progressif sur INJ pour capturer ses multiples opportunités sans sur-exposition.",
+  "last_distillation": "2026-05-05T19:55:17.487344+00:00",
+  "trades_analyzed": 103,
+  "win_rate_at_distill": 61.8,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
