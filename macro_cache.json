@@ -1,18 +1,18 @@
 {
-  "score_macro": 75,
-  "score_sentiment": 65,
+  "score_macro": 72,
+  "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin teste les 80 000$ avec un momentum haussier soutenu par les options desks misant sur une poursuite de la hausse, tandis que l'intégration croissante institutionnelle se confirme avec Polygon ciblant les paiements privés. Le marché crypto bénéficie d'afflux de capitaux significatifs avec 1Md$ levé par Haun Ventures intégrant l'IA, compensant partiellement l'affaiblissement des enchères asiatiques.",
-  "risque_principal": "XRP sous pression avec un glissement sous 1.40$ sur fort volume signalant une possible correction plus large des altcoins.",
-  "opportunite_du_jour": "BTC approchant les 81 000$ avec un support options actif offre un potentiel de breakout technique imminent.",
+  "contexte": "L'écosystème crypto montre des signaux de maturité institutionnelle avec les initiatives réglementaires US (PARITY Act) et l'expansion de Western Union sur Solana, créant un environnement favorable aux adoptions corporate. Les upgrades techniques majeures comme Alpenglow de Solana et les opportunités tokenisation à 4T$ identifiées par Bernstein renforcent les fondamentaux long terme malgré une volatilité contenue.",
+  "risque_principal": "La concentration extrême des performances sur INJ (4/5 top trades) révèle un risque de single-point-of-failure et de correction brutale sur l'asset dominant.",
+  "opportunite_du_jour": "L'upgrade Alpenglow de Solana et l'intégration Western Union créent une fenêtre d'accumulation technique avant les impacts fondamentaux.",
   "actifs_favorables": [
-    "BTC",
-    "ETH",
-    "SOL"
+    "SOL",
+    "INJ",
+    "BTC"
   ],
   "actifs_risques": [
-    "XRP",
-    "TRX"
+    "APT",
+    "XLM"
   ],
-  "last_claude_run": "2026-05-05T06:26:12.332877+00:00"
+  "last_claude_run": "2026-05-05T18:31:12.136372+00:00"
 }
