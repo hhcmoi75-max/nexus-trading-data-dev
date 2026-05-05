@@ -1,18 +1,18 @@
 {
   "score_macro": 75,
-  "score_sentiment": 72,
+  "score_sentiment": 65,
   "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin franchit la barre psychologique des 80 000$ soutenus par les avancées réglementaires américaines (Clarity Act) et l'adoption institutionnelle accélérée avec DTCC lançant une plateforme de titres tokenisés. L'écosystème crypto bénéficie d'un momentum institutionnel fort malgré les tensions géopolitiques avec l'Iran qui maintiennent une volatilité sous-jacente.",
-  "risque_principal": "Les tensions géopolitiques avec l'Iran créent une instabilité sur les actifs risqués pouvant déclencher des corrections brutales malgré le momentum haussier.",
-  "opportunite_du_jour": "La tokenisation institutionnelle via DTCC et l'adoption corporate (Shopify, National Bank of Canada) offrent un catalyseur structurel pour les infrastructures blockchain établies.",
+  "contexte": "Bitcoin teste les 80 000$ avec un momentum haussier soutenu par les options desks misant sur une poursuite de la hausse, tandis que l'intégration croissante institutionnelle se confirme avec Polygon ciblant les paiements privés. Le marché crypto bénéficie d'afflux de capitaux significatifs avec 1Md$ levé par Haun Ventures intégrant l'IA, compensant partiellement l'affaiblissement des enchères asiatiques.",
+  "risque_principal": "XRP sous pression avec un glissement sous 1.40$ sur fort volume signalant une possible correction plus large des altcoins.",
+  "opportunite_du_jour": "BTC approchant les 81 000$ avec un support options actif offre un potentiel de breakout technique imminent.",
   "actifs_favorables": [
     "BTC",
     "ETH",
-    "BNB"
+    "SOL"
   ],
   "actifs_risques": [
     "XRP",
     "TRX"
   ],
-  "last_claude_run": "2026-05-04T18:21:12.412660+00:00"
+  "last_claude_run": "2026-05-05T06:26:12.332877+00:00"
 }
