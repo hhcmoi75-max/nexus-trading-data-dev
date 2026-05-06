@@ -1,18 +1,18 @@
 {
   "score_macro": 72,
   "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Bitcoin franchit les 81 000$ souteneur par l'adoption institutionnelle malgré les signaux de vente potentielle de MicroStrategy pour financer ses dividendes. XRP maintient sa dynamique haussière au-dessus de 1,42$ avec un pattern de breakout 2025 similaire à celui qui avait généré +66% de rally.",
-  "risque_principal": "La potentielle vente de BTC par MicroStrategy pour obligations de dividendes pourrait créer une pression baissière sur le marché des cryptomonnaies.",
-  "opportunite_du_jour": "XRP présente un setup technique favorable avec un pattern de breakout historiquement performant et une dynamique prix soutenue.",
+  "tendance_marche": "NEUTRE",
+  "contexte": "Les marchés crypto affichent une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant probablement une consolidation avant mouvement directionnel significatif. Les nouvelles institutionnelles positives (Anthropic-SpaceX, adoption USDC Bermuda, régulation bancaire Suisse) contrastent avec l'attentisme général du marché.",
+  "risque_principal": "La stagnation généralisée des prix cache une volatilité latente dangereuse, amplifiée par le phénomène de 'success trap' observé où l'amélioration du win rate dilue paradoxalement la rentabilité.",
+  "opportunite_du_jour": "ETC pourrait prolonger sa surperformance inattendue de +8.3% en tant que blockchain legacy PoW survivante dans un écosystème PoS dominant.",
   "actifs_favorables": [
-    "XRP",
-    "BTC",
-    "ETC"
+    "ETC",
+    "INJ",
+    "BTC"
   ],
   "actifs_risques": [
     "DOT",
     "APT"
   ],
-  "last_claude_run": "2026-05-06T06:36:10.356052+00:00"
+  "last_claude_run": "2026-05-06T18:41:27.097555+00:00"
 }
