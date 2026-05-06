@@ -2,17 +2,17 @@
   "score_macro": 72,
   "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'écosystème crypto montre des signaux de maturité institutionnelle avec les initiatives réglementaires US (PARITY Act) et l'expansion de Western Union sur Solana, créant un environnement favorable aux adoptions corporate. Les upgrades techniques majeures comme Alpenglow de Solana et les opportunités tokenisation à 4T$ identifiées par Bernstein renforcent les fondamentaux long terme malgré une volatilité contenue.",
-  "risque_principal": "La concentration extrême des performances sur INJ (4/5 top trades) révèle un risque de single-point-of-failure et de correction brutale sur l'asset dominant.",
-  "opportunite_du_jour": "L'upgrade Alpenglow de Solana et l'intégration Western Union créent une fenêtre d'accumulation technique avant les impacts fondamentaux.",
+  "contexte": "Bitcoin franchit les 81 000$ souteneur par l'adoption institutionnelle malgré les signaux de vente potentielle de MicroStrategy pour financer ses dividendes. XRP maintient sa dynamique haussière au-dessus de 1,42$ avec un pattern de breakout 2025 similaire à celui qui avait généré +66% de rally.",
+  "risque_principal": "La potentielle vente de BTC par MicroStrategy pour obligations de dividendes pourrait créer une pression baissière sur le marché des cryptomonnaies.",
+  "opportunite_du_jour": "XRP présente un setup technique favorable avec un pattern de breakout historiquement performant et une dynamique prix soutenue.",
   "actifs_favorables": [
-    "SOL",
-    "INJ",
-    "BTC"
+    "XRP",
+    "BTC",
+    "ETC"
   ],
   "actifs_risques": [
-    "APT",
-    "XLM"
+    "DOT",
+    "APT"
   ],
-  "last_claude_run": "2026-05-05T18:31:12.136372+00:00"
+  "last_claude_run": "2026-05-06T06:36:10.356052+00:00"
 }
