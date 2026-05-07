@@ -2,17 +2,17 @@
   "score_macro": 72,
   "score_sentiment": 68,
   "tendance_marche": "HAUSSIER",
-  "contexte": "L'adoption institutionnelle s'accélère avec BNY Mellon qui étend ses services crypto à Abu Dhabi et les prêteurs crypto qui standardisent leurs pratiques selon les normes TradFi. La collaboration Ripple-JPMorgan sur la tokenisation des bons du Trésor marque une étape cruciale dans l'intégration des cryptos aux systèmes financiers traditionnels.",
-  "risque_principal": "Les liquidations récentes sur Aave et la convergence des projets en déclin vers des performances médiocres signalent une fragilité sous-jacente des positions sur-leveragées.",
-  "opportunite_du_jour": "Bitcoin présente trois signaux techniques pointant vers 85 000$ dans un contexte d'adoption institutionnelle croissante et de standardisation des services crypto.",
+  "contexte": "Le marché crypto montre une consolidation stable avec des développements institutionnels positifs, notamment la potentielle relance de Binance.US pour améliorer la liquidité globale et l'explosion des marchés de prédiction avec Kalshi valorisé à 22B$. Les discussions sur la mainstreaming de DeFi via l'IA et les préoccupations réglementaires des midterms 2026 créent un environnement d'attente prudente mais constructive.",
+  "risque_principal": "La concentration excessive sur des stratégies gagnantes dilue paradoxalement la rentabilité globale, créant un 'success trap' dangereux.",
+  "opportunite_du_jour": "ETC émerge comme surprise avec sa nature proof-of-work legacy qui surperforme dans un environnement PoS dominant.",
   "actifs_favorables": [
-    "BTC",
-    "XRP",
-    "BNB"
+    "ETC",
+    "INJ",
+    "BTC"
   ],
   "actifs_risques": [
-    "ETH",
-    "SOL"
+    "DOT",
+    "APT"
   ],
-  "last_claude_run": "2026-05-07T06:46:10.962596+00:00"
+  "last_claude_run": "2026-05-07T18:51:11.410584+00:00"
 }
