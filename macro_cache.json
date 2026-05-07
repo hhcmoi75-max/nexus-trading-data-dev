@@ -1,18 +1,18 @@
 {
   "score_macro": 72,
   "score_sentiment": 68,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto affichent une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant probablement une consolidation avant mouvement directionnel significatif. Les nouvelles institutionnelles positives (Anthropic-SpaceX, adoption USDC Bermuda, régulation bancaire Suisse) contrastent avec l'attentisme général du marché.",
-  "risque_principal": "La stagnation généralisée des prix cache une volatilité latente dangereuse, amplifiée par le phénomène de 'success trap' observé où l'amélioration du win rate dilue paradoxalement la rentabilité.",
-  "opportunite_du_jour": "ETC pourrait prolonger sa surperformance inattendue de +8.3% en tant que blockchain legacy PoW survivante dans un écosystème PoS dominant.",
+  "tendance_marche": "HAUSSIER",
+  "contexte": "L'adoption institutionnelle s'accélère avec BNY Mellon qui étend ses services crypto à Abu Dhabi et les prêteurs crypto qui standardisent leurs pratiques selon les normes TradFi. La collaboration Ripple-JPMorgan sur la tokenisation des bons du Trésor marque une étape cruciale dans l'intégration des cryptos aux systèmes financiers traditionnels.",
+  "risque_principal": "Les liquidations récentes sur Aave et la convergence des projets en déclin vers des performances médiocres signalent une fragilité sous-jacente des positions sur-leveragées.",
+  "opportunite_du_jour": "Bitcoin présente trois signaux techniques pointant vers 85 000$ dans un contexte d'adoption institutionnelle croissante et de standardisation des services crypto.",
   "actifs_favorables": [
-    "ETC",
-    "INJ",
-    "BTC"
+    "BTC",
+    "XRP",
+    "BNB"
   ],
   "actifs_risques": [
-    "DOT",
-    "APT"
+    "ETH",
+    "SOL"
   ],
-  "last_claude_run": "2026-05-06T18:41:27.097555+00:00"
+  "last_claude_run": "2026-05-07T06:46:10.962596+00:00"
 }
