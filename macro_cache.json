@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
-  "tendance_marche": "HAUSSIER",
-  "contexte": "Le marché crypto montre une consolidation stable avec des développements institutionnels positifs, notamment la potentielle relance de Binance.US pour améliorer la liquidité globale et l'explosion des marchés de prédiction avec Kalshi valorisé à 22B$. Les discussions sur la mainstreaming de DeFi via l'IA et les préoccupations réglementaires des midterms 2026 créent un environnement d'attente prudente mais constructive.",
-  "risque_principal": "La concentration excessive sur des stratégies gagnantes dilue paradoxalement la rentabilité globale, créant un 'success trap' dangereux.",
-  "opportunite_du_jour": "ETC émerge comme surprise avec sa nature proof-of-work legacy qui surperforme dans un environnement PoS dominant.",
+  "score_macro": 25,
+  "score_sentiment": 20,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto traverse une phase de correction significative avec Bitcoin qui glisse vers 79 000$ et des taux de financement négatifs atteignant un record de 10 ans, signalant un sentiment baissier extrême. Les difficultés institutionnelles se multiplient avec les pertes de Coinbase (-400M$ Q1) et la résistance persistante des investisseurs institutionnels aux DEXes perpétuels.",
+  "risque_principal": "Les taux de financement négatifs record sur 10 ans suggèrent un sur-positionnement baissier dangereux pouvant déclencher un short squeeze violent.",
+  "opportunite_du_jour": "Les blockchains proof-of-work legacy comme ETC montrent une résilience paradoxale dans ce contexte baissier, offrant des opportunités de contrarian trading.",
   "actifs_favorables": [
     "ETC",
-    "INJ",
-    "BTC"
+    "XAU",
+    "XAG"
   ],
   "actifs_risques": [
-    "DOT",
-    "APT"
+    "DOGE",
+    "BTC"
   ],
-  "last_claude_run": "2026-05-07T18:51:11.410584+00:00"
+  "last_claude_run": "2026-05-08T06:56:15.036389+00:00"
 }
