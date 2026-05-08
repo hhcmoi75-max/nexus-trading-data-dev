@@ -1,5 +1,12 @@
 {
   "lecons_cles": [
+    "Le seuil psychologique de 15% de gains simultanés sur TON, ETC, FIL, ARB révèle un plafond de performance algorithmique où le bot déclenche automatiquement des prises de bénéfices, limitant les gains exponentiels",
+    "L'émergence d'ARB dans les deux extrêmes (+15.1% et -5.0%) avec un profil parfaitement symétrique expose un nouveau pattern de 'volatilité miroir' où les layer-2 oscillent entre performance maximale et échec selon des cycles prévisibles",
+    "Le bond spectaculaire du PnL de 0.76% à 1.05% (+38% d'amélioration) couplé au win rate atteignant 66% révèle une phase d'accélération exponentielle suggérant l'atteinte d'un régime de performance supérieur",
+    "NEAR apparaît pour la première fois dans les pires trades (-3.7%) malgré son écosystème développeur mature, indiquant une vulnérabilité émergente des blockchains axées développeurs face aux blockchains orientées utilisateurs finaux",
+    "UNI chute dans les pires performances (-3.4%) malgré son statut de DEX leader, révélant une faiblesse structurelle sur les tokens de gouvernance DeFi face aux protocoles DeFi opérationnels comme INJ",
+    "La convergence exacte de TON, ETC, FIL, ARB à +15.1% (avec TON à +15.6%) révèle un mécanisme de take-profit automatique du bot autour du seuil 15%, empêchant la capture de gains supérieurs",
+    "L'effondrement d'UNI (-3.4%) contraste avec la domination d'INJ (+10.8%), exposant une obsolescence des tokens de gouvernance face aux tokens d'utilité opérationnelle dans l'écosystème DeFi",
     "ETC émerge comme nouvelle star inattendue (+8.3%, 2ème meilleur trade) révélant que les blockchains legacy proof-of-work survivantes surperforment paradoxalement dans un marché dominé par le PoS",
     "La régression simultanée d'APT et XLM vers exactement 25% de win rate cristallise un 'seuil de médiocrité' où les projets en déclin convergent mathématiquement",
     "DOT détrône tous les autres dans les pires performances (-5.4%) malgré son écosystème parachain mature, exposant l'obsolescence des architectures multi-chaînes complexes face aux layer-1 monolithiques",
@@ -42,37 +49,36 @@
     "OP affiche 0% de win rate avec une perte notable (-5.2%), révélant une incompatibilité systémique avec les layer-2 Optimism-based",
     "INJ confirme l'efficacité sur les DEX spécialisés avec +8.1%, étendant la domination au-delà d'ALGO vers l'écosystème DeFi-cosmos",
     "Le win rate de 57.4% avec PnL moyen de +0.5% montre une amélioration significative, indiquant que l'optimisation des paramètres porte ses fruits",
-    "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif",
-    "Les actifs cosmos-ecosystem (ATOM) et nouveaux layer-1 (SEI) émergent comme nouvelles catégories gagnantes au-delà des infrastructures classiques"
+    "BTC affiche désormais 100% de win rate contrairement aux analyses précédentes, suggérant une évolution favorable des conditions de marché pour cet actif"
   ],
   "actifs_a_privilegier": [
-    "INJ",
+    "TON",
     "ETC",
+    "FIL",
     "BTC",
-    "TRX",
     "ALGO",
     "SEI",
-    "ATOM",
-    "TON"
+    "INJ",
+    "TRX"
   ],
   "actifs_a_eviter": [
-    "DOT",
-    "OP",
-    "APT",
-    "XLM",
-    "BNB",
     "MSFT",
     "NVDA",
-    "ARB"
+    "APT",
+    "XLM",
+    "UNI",
+    "NEAR",
+    "DOT",
+    "OP"
   ],
-  "conditions_favorables": "Marché favorisant les blockchains à consensus simple (PoW/PoS purs) et les protocoles DeFi spécialisés, avec aversion pour les architectures complexes multi-chaînes et les layer-2",
-  "erreurs_recurrentes": "Sur-trading sur les actifs à faible win rate persistant (APT, XLM à 25%) et allocation insuffisante sur les actifs à performance prouvée comme INJ",
+  "conditions_favorables": "Marché crypto en phase d'accélération avec rotation secteurs proof-of-work legacy et blockchains sociales intégrées, évitement total des actions traditionnelles",
+  "erreurs_recurrentes": "Plafonnement automatique des gains à 15% empêchant la capture de super-performances, exposition persistante aux layer-2 volatils et tokens de gouvernance DeFi",
   "recommandation_seuil_buy": 72,
-  "recommandation_stop_loss": 0.055,
-  "strategie_recommandee": "Concentrer 60% de l'allocation sur les 5 actifs parfaits (100% win rate) et éliminer définitivement tout actif sous 30% de win rate. Implémenter un système de position-sizing progressif sur INJ pour capturer ses multiples opportunités sans sur-exposition.",
-  "last_distillation": "2026-05-05T19:55:17.487344+00:00",
-  "trades_analyzed": 103,
-  "win_rate_at_distill": 61.8,
+  "recommandation_stop_loss": 0.06,
+  "strategie_recommandee": "Capitaliser sur la phase d'accélération en concentrant sur les actifs 100% win rate et les émergents +15%. Implémenter un mécanisme de take-profit dynamique au-delà de 15% pour capturer les super-performances.",
+  "last_distillation": "2026-05-08T20:05:18.482110+00:00",
+  "trades_analyzed": 122,
+  "win_rate_at_distill": 66.0,
   "traders": {
     "Warren Buffett": {
       "style": "Value Investing - Long terme",
