@@ -1,18 +1,18 @@
 {
-  "score_macro": 72,
-  "score_sentiment": 68,
+  "score_macro": 65,
+  "score_sentiment": 58,
   "tendance_marche": "NEUTRE",
-  "contexte": "Les marchés crypto évoluent en consolidation avec des signaux réglementaires positifs (nouvelles règles SEC, charter bancaire Kraken) mais des prises de bénéfices sur Bitcoin à ses plus hauts 3 mois. Le sentiment Reddit modéré (50/100) et la stagnation des prix majeurs reflètent une phase d'attentisme institutionnel.",
-  "risque_principal": "Les prises de bénéfices sur Bitcoin pourraient s'accélérer et contaminer l'ensemble du marché crypto par effet de corrélation.",
-  "opportunite_du_jour": "XRP approche d'un breakout technique vers 1.40€ avec un range qui se resserre, offrant un potentiel de momentum directionnel.",
+  "contexte": "Le marché évolue dans une phase de consolidation avec Bitcoin maintenu au-dessus de 80 000$ mais les ETF subissent des sorties de 268M$, créant une tension entre support technique et flux institutionnels. Les audiences du Sénat sur la structure de marché jeudi et le markup du CLARITY Act le 14 mai introduisent une incertitude réglementaire à court terme.",
+  "risque_principal": "Les sorties massives d'ETF Bitcoin (268M$) couplées à l'incertitude sur le nouveau président de la Fed créent un risque de correction technique malgré le support des 80 000$.",
+  "opportunite_du_jour": "L'autorisation judiciaire pour Aave de déplacer 71M$ d'ETH et le rebond de Coinbase sur la surge des altcoins offrent des opportunités sur l'écosystème DeFi et les plateformes d'échange.",
   "actifs_favorables": [
-    "XRP",
-    "ETC",
-    "INJ"
+    "ETH",
+    "BNB",
+    "SOL"
   ],
   "actifs_risques": [
     "BTC",
-    "DOT"
+    "XRP"
   ],
-  "last_claude_run": "2026-05-08T19:01:14.278279+00:00"
+  "last_claude_run": "2026-05-09T07:06:15.322651+00:00"
 }
