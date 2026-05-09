@@ -1,18 +1,18 @@
 {
-  "score_macro": 65,
-  "score_sentiment": 58,
-  "tendance_marche": "NEUTRE",
-  "contexte": "Le marché évolue dans une phase de consolidation avec Bitcoin maintenu au-dessus de 80 000$ mais les ETF subissent des sorties de 268M$, créant une tension entre support technique et flux institutionnels. Les audiences du Sénat sur la structure de marché jeudi et le markup du CLARITY Act le 14 mai introduisent une incertitude réglementaire à court terme.",
-  "risque_principal": "Les sorties massives d'ETF Bitcoin (268M$) couplées à l'incertitude sur le nouveau président de la Fed créent un risque de correction technique malgré le support des 80 000$.",
-  "opportunite_du_jour": "L'autorisation judiciaire pour Aave de déplacer 71M$ d'ETH et le rebond de Coinbase sur la surge des altcoins offrent des opportunités sur l'écosystème DeFi et les plateformes d'échange.",
+  "score_macro": 45,
+  "score_sentiment": 35,
+  "tendance_marche": "BAISSIER",
+  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0%, révélant une absence de momentum dans un environnement d'incertitudes réglementaires malgré l'avancée du Senate Clarity Act. Les préoccupations techniques majeures émergent avec les vulnérabilités quantiques de Bitcoin et les failles de sécurité Linux de 2017 qui refont surface.",
+  "risque_principal": "Les vulnérabilités techniques systémiques (migration quantique Bitcoin, bugs Linux) couplées aux pressions réglementaires sur les exchanges iraniens créent un climat de défiance technologique.",
+  "opportunite_du_jour": "L'amélioration spectaculaire des performances du bot (PnL +38% à 1.05%, win rate 66%) offre une fenêtre d'optimisation algorithmique dans un marché stagnant.",
   "actifs_favorables": [
+    "BTC",
     "ETH",
-    "BNB",
-    "SOL"
+    "XAU"
   ],
   "actifs_risques": [
-    "BTC",
+    "TRX",
     "XRP"
   ],
-  "last_claude_run": "2026-05-09T07:06:15.322651+00:00"
+  "last_claude_run": "2026-05-09T19:11:11.527102+00:00"
 }
