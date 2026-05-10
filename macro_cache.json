@@ -1,18 +1,18 @@
 {
-  "score_macro": 45,
-  "score_sentiment": 35,
-  "tendance_marche": "BAISSIER",
-  "contexte": "Le marché crypto stagne avec tous les actifs majeurs à 0%, révélant une absence de momentum dans un environnement d'incertitudes réglementaires malgré l'avancée du Senate Clarity Act. Les préoccupations techniques majeures émergent avec les vulnérabilités quantiques de Bitcoin et les failles de sécurité Linux de 2017 qui refont surface.",
-  "risque_principal": "Les vulnérabilités techniques systémiques (migration quantique Bitcoin, bugs Linux) couplées aux pressions réglementaires sur les exchanges iraniens créent un climat de défiance technologique.",
-  "opportunite_du_jour": "L'amélioration spectaculaire des performances du bot (PnL +38% à 1.05%, win rate 66%) offre une fenêtre d'optimisation algorithmique dans un marché stagnant.",
+  "score_macro": 72,
+  "score_sentiment": 58,
+  "tendance_marche": "NEUTRE",
+  "contexte": "Le marché présente une stabilité trompeuse avec tous les actifs majeurs à 0% de variation, masquant une volatilité sous-jacente importante révélée par les patterns de trading algorithmique. L'amélioration spectaculaire des performances du bot (+38% de PnL) couplée à un win rate de 68.7% suggère une phase d'optimisation technique malgré un sentiment Reddit mitigé à 50/100.",
+  "risque_principal": "L'émergence du pattern 'volatilité miroir' sur ARB et la vulnérabilité des tokens de gouvernance DeFi signalent une rotation sectorielle défavorable aux infrastructures décentralisées.",
+  "opportunite_du_jour": "Le plafond algorithmique de 15% sur les gains révèle des opportunités de breakout technique sur TON, ETC, FIL une fois ce seuil franchi.",
   "actifs_favorables": [
+    "SOL",
     "BTC",
-    "ETH",
-    "XAU"
+    "ETH"
   ],
   "actifs_risques": [
-    "TRX",
-    "XRP"
+    "XRP",
+    "TRX"
   ],
-  "last_claude_run": "2026-05-09T19:11:11.527102+00:00"
+  "last_claude_run": "2026-05-10T07:16:15.138340+00:00"
 }
