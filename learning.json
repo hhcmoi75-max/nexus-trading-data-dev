@@ -13,7 +13,7 @@
     "RSI_OVERBOUGHT": 65,
     "STOP_LOSS_PCT": 0.05,
     "TAKE_PROFIT_PCT": 0.18,
-    "last_update": "2026-05-10T05:40:59.941178",
+    "last_update": "2026-05-10T05:45:59.340316",
     "win_rate_recent": 93.3
   },
   "asset_patterns": {
@@ -8342,6 +8342,53 @@
         "btc_status": "ok",
         "claude_confidence": 50
       }
+    },
+    {
+      "asset": "UNI",
+      "action": "TP_PALIER_8",
+      "entry_price_eur": 3.09,
+      "exit_price_eur": 3.34,
+      "pnl_pct": 8.09,
+      "pnl_eur": 1.45,
+      "amount_eur": 17.87,
+      "entry_time": "2026-05-09T10:16:27.358735+00:00",
+      "exit_time": "2026-05-10T05:46:28.365776+00:00",
+      "entry_rsi": 51.63,
+      "entry_score": 67,
+      "entry_change_24h": 0.0,
+      "entry_hour_utc": 10,
+      "entry_weekday": 5,
+      "btc_change_at_entry": 0,
+      "btc_status": "ok",
+      "claude_confidence": 50,
+      "adx": 45.83,
+      "psar_bull": true,
+      "above_ema200": true,
+      "fear_greed": 38,
+      "score_technique": 75,
+      "score_macro": 65,
+      "score_sentiment": 58,
+      "score_momentum": 42,
+      "score_volume": 50,
+      "exit_type_code": 3,
+      "entry_snapshot": {
+        "rsi": 51.63,
+        "score": 67,
+        "score_technique": 75,
+        "score_macro": 65,
+        "score_sentiment": 58,
+        "score_momentum": 42,
+        "score_volume": 50,
+        "change_24h": 0.0,
+        "type": "crypto",
+        "fear_greed": 38,
+        "entry_hour_utc": 10,
+        "entry_weekday": 5,
+        "btc_status": "ok",
+        "btc_change_at_entry": 0,
+        "claude_confidence": 50
+      },
+      "simulated": false
     }
   ],
   "stats": {
@@ -8354,6 +8401,6 @@
     "best_trade": 15.61,
     "worst_trade": -7.79
   },
-  "last_update": "2026-05-10T05:41:54.222602",
+  "last_update": "2026-05-10T05:46:58.682976",
   "ml_accuracy": 87.5
 }
